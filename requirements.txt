@@ -1,0 +1,3 @@
+# The MCP server needs mcp (1.x or 2.x); semantic search needs numpy. server.py itself is standard library.
+mcp>=1.30
+numpy>=2

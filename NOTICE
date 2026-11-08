@@ -1,0 +1,10 @@
+ui-indexador is MIT-licensed (LICENSE). It includes or derives from:
+
+- data/themes.json: theme tokens from tweakcn (https://github.com/jnsahaj/tweakcn), Apache-2.0, and theme
+  descriptions/vibes from shadcn-ui-mcp-server (https://github.com/Jpisnice/shadcn-ui-mcp-server), MIT.
+  Regenerate with scripts/fetch-themes.py.
+- site/: components installed from shadcn registries, each under its author's licence; see site/THIRD_PARTY.md.
+  Fonts Geist Mono and JetBrains Mono, SIL Open Font License 1.1.
+
+The index (data/catalog.json, generated) describes items that belong to their registries' authors. It stores
+metadata only; component code is always fetched from the original registry by the shadcn CLI.

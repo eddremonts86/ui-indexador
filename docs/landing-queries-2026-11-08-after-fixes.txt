@@ -1,0 +1,128 @@
+
+## navbar: 'developer tool navbar with github stars button' {'type': 'block'} -> semantic, 300
+  0.736 @weinc/navbar-with-centered-links-and-mobile-menu                 [block,react] ? ★0
+  0.737 @elements/github-star-button                                         [block,react] MIT ★538
+  0.703 @weinc/responsive-react-navbar-with-mega-menu-animated-hamburger-and-sticky-shrink-on-scroll [block,react] ? ★0
+  0.693 @grootstudio/github-stars-react                                         [block,react] MIT ★62
+  0.732 @weinc/ray-marched-frosted-glass-pill-navbar-on-steel-standoffs-with-a-bead-of-light-inside-over-colour-block-photographs-that-slide-past [block,react] ? ★0
+  0.676 @weinc/back-to-top-button-collection-with-progress-ring-pill-floating-label-and-smooth-scroll-snippets [block,react] ? ★0
+
+## hero: 'hero for a developer tool with search input and code' {'type': 'block'} -> semantic, 300
+  0.685 @astryx/example-text-input-search                                  [block,react] MIT ★14914
+  0.721 @velora/hero-grid-minimal                                          [block,react] MIT ★61
+  0.675 @astryx/example-use-hotkeys-search-and-help-shortcuts              [block,react] MIT ★14914
+  0.712 @registrydirectory/shadcn-ui-blocks/marketing-hero-forms-center-aligned-search-with-tags [block,react] mirror of @shadcn-ui-blocks ★None
+  0.750 @keyframeui/agent-session-hero                                         [block,react] ? ★0
+  0.656 @keyframeui/expanding-hero-product-demo                                [block,react] ? ★0
+
+## hero-alt: 'hero section with animated terminal'  -> semantic, 301
+  0.784 @registrydirectory/shadcn-ui-blocks/marketing-hero-sections-with-terminal     [block,react] mirror of @shadcn-ui-blocks ★None
+  0.760 @lema-ds/ds-hero-terminal                                           [block,react] ? ★0
+  0.795 @uiception/hero-section-v2                                            [block,react] MIT ★3
+  0.781 @uiception/hero-section-v1                                            [block,react] MIT ★3
+  0.745 @balick/hero-02                                                    [block,react] MIT ★1
+  0.809 @registrydirectory/uday-a/hero-ascii-terminal-stream                          [block,react] mirror of @uday-a ★None
+
+## live-search: 'command palette search results list'  -> semantic, 301
+  0.807 @astryx/component-command-palette-list                             [component,react] MIT ★14914
+  0.782 @astryx/showcase-command-palette-list-default                      [block,react] MIT ★14914
+  0.778 @astryx/example-command-palette-async-search                       [block,react] MIT ★14914
+  0.801 @astryx/component-command-palette-empty                            [component,react] MIT ★14914
+  0.800 @astryx/showcase-command-palette-default                           [block,react] MIT ★14914
+  0.744 @astryx/example-command-palette-list-item-states                   [block,react] MIT ★14914
+
+## problem: 'before and after comparison section' {'type': 'block'} -> semantic, 301
+  0.717 @photocn/before-after                                               [block,react] MIT ★5
+  0.686 @devl/before-after-hero                                          [block,react] MIT ★222
+  0.709 @wensity/before-after-card                                          [block,react] ? ★0
+  0.739 @hirael/comparison-03                                              [block,react] MIT ★40
+  0.675 @registrydirectory/shadcn-ui-blocks/marketing-feature-sections-with-comparison [block,react] mirror of @shadcn-ui-blocks ★None
+  0.657 @uiception/comparison-section-v1                                      [block,react] MIT ★3
+
+## stats: 'animated number ticker statistics'  -> semantic, 300
+  0.846 @fancy-ui/number-ticker                                              [ui,react] MIT ★24
+  0.771 @beui/number-ticker                                              [component,react] MIT ★1934
+  0.817 @cuelark/number-ticker                                              [ui,react] MIT ★1
+  0.810 @stacklyui/number-ticker                                              [ui,react] MIT ★1
+  0.752 @beui/animated-number                                            [component,react] MIT ★1934
+  0.762 @karaui/number-ticker                                              [component,react] MIT ★4
+
+## logos: 'logo marquee infinite scroll'  -> semantic, 328
+  0.823 @beui/marquee                                                    [component,react] MIT ★1934
+  0.802 @reactframe/infinite-marquee                                           [component,react] MIT ★1
+  0.805 @smoothui/logo-cloud-3                                               [block,react] MIT ★1046
+  0.783 @reactframe/logo-marquee                                               [component,react] MIT ★1
+  0.810 @tweenly/marquee                                                    [component,react] MIT ★3
+  0.799 @cuelark/marquee                                                    [ui,react] MIT ★1
+
+## how-it-works: 'how it works steps pipeline' {'type': 'block'} -> semantic, 300
+  0.748 @karaui/how-it-works                                               [block,react] MIT ★4
+  0.719 @balick/steps-01                                                   [block,react] MIT ★1
+  0.725 @7ovr/how-it-works-3                                             [block,react] ? ★0
+  0.724 @7ovr/how-it-works-2                                             [block,react] ? ★0
+  0.717 @7ovr/how-it-works-1                                             [block,react] ? ★0
+  0.720 @registrydirectory/uday-a/how-it-works-tabbed-steps                           [block,react] mirror of @uday-a ★None
+
+## features: 'bento grid features section' {'type': 'block'} -> semantic, 307
+  0.843 @velora/features-bento                                             [block,react] MIT ★61
+  0.821 @weinc/bento-grid-six-tiles-with-one-large-feature-tile           [block,react] ? ★0
+  0.816 @facade/bento-grid                                                 [block,react] MIT ★0
+  0.854 @balick/features-01                                                [block,react] MIT ★1
+  0.831 @registrydirectory/aceternity/features-section-demo-3                         [block,react] mirror of @aceternity ★None
+  0.816 @cortexcn/feature-bento-grid-01                                      [block,react] MIT ★2
+
+## code-tabs: 'code block with tabs and copy button'  -> semantic, 301
+  0.805 @velora/code-block                                                 [ui,react] MIT ★61
+  0.698 @weinc/css-button-styles-collection-with-copyable-html-and-css-for-every-button [component,react] ? ★0
+  0.748 @fancy-ui/copy-button                                                [ui,react] MIT ★24
+  0.767 @localmode/ui/input-controls/copy-button                              [component,react] MIT ★68
+  0.773 @velobits/code-block                                                 [ui,react] NOASSERTION ★0
+  0.776 @akoder/copy-command-block                                         [ui,react] MIT ★45
+
+## terminal: 'terminal window typing animation'  -> semantic, 300
+  0.753 @cult-ui/terminal-animation                                         [ui,react] MIT ★7021
+  0.753 @remocn/icon-terminal                                              [component,react] MIT ★1691
+  0.752 @uniquel/typing-animation                                           [component,react] ? ★0
+  0.754 @fancy-ui/terminal-text                                              [ui,react] MIT ★24
+  0.770 @minidev/terminal                                                   [component,react] MIT ★2
+  0.713 @magicui/typing-animation                                           [ui,react] MIT ★23139
+
+## mcp-config: 'install instructions package manager tabs npm pnpm'  -> semantic, 300
+  0.840 @tealmac/install-tabs                                               [ui,react] ? ★0
+  0.753 @navui/package-manager-command                                    [ui,react] MIT ★6
+  0.766 @01orbital/install-switcher                                           [ui,react] ? ★0
+  0.673 @spaceui/demo-p-tabs-04                                             [ui,react] MIT ★60
+  0.726 @eased/code-tabs                                                  [ui,react] MIT ★1
+  0.666 @spaceui/demo-p-tabs-05                                             [ui,react] MIT ★60
+
+## receipt: 'file tree'  -> semantic, 369
+  0.839 @sudokw/files-file-tree                                            [component,react] MIT ★1
+  0.862 @magicui/file-tree                                                  [ui,react] MIT ★23139
+  0.820 @creance/file-tree                                                  [ui,react] MIT ★0
+  0.874 @mischief/file-tree                                                  [ui,react] MIT ★6
+  0.789 @assistant-ui/elements-file-tree                                         [component,react] MIT ★13003
+  0.843 @pastaui/file-tree                                                  [component,react] MIT ★3
+
+## faq: 'faq accordion section' {'type': 'block'} -> semantic, 330
+  0.804 @velora/faq-accordion                                              [block,react] MIT ★61
+  0.805 @navui/faqs-section-two                                           [block,react] MIT ★6
+  0.794 @saastro/faq-01                                                     [block,react] ? ★0
+  0.798 @uiception/faq-section-v1                                             [block,react] MIT ★3
+  0.795 @navui/faq-section-three                                          [block,react] MIT ★6
+  0.791 @uiception/faq-section-v2                                             [block,react] MIT ★3
+
+## cta: 'call to action section with background beams' {'type': 'block'} -> semantic, 300
+  0.746 @payload-components/call-to-action-boxed                                       [block,react] MIT ★49
+  0.703 @payload-components/call-to-action-centered                                    [block,react] MIT ★49
+  0.722 @ballmac/cta-1                                                      [block,react] MIT ★12
+  0.664 @astryx/example-layout-header-with-actions                         [block,react] MIT ★14914
+  0.714 @satoriui/cta-01                                                     [block,react] ? ★0
+  0.677 @payload-components/call-to-action-split                                       [block,react] MIT ★49
+
+## footer: 'minimal footer with links' {'type': 'block'} -> semantic, 306
+  0.821 @spectrumui/minimal-footer                                             [block,react] Apache-2.0 ★1530
+  0.761 @registrydirectory/motion-menu/minimal-sign-off-footer                        [block,react] mirror of @motion-menu ★None
+  0.753 @registrydirectory/shadcn-ui-blocks/marketing-footers-minimal                 [block,react] mirror of @shadcn-ui-blocks ★None
+  0.809 @registrydirectory/uday-a/footer-minimal-row                                  [block,react] mirror of @uday-a ★None
+  0.747 @ui-layouts/footer-minimal                                             [block,react] MIT ★3845
+  0.735 @pacekit/marketing-footer-1                                         [block,react] ? ★16

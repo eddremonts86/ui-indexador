@@ -1,0 +1,132 @@
+
+## navbar: 'developer tool navbar with github stars button' {'type': 'block'} -> semantic, 300
+  0.736 @weinc/navbar-with-centered-links-and-mobile-menu            [block] ? ★0 Navbar over a photo hero: logo left, links in the true centre, a booki
+  0.737 @elements/github-star-button                                 [block] MIT ★538 An interactive star button with live star count that links to a GitHub
+  0.703 @weinc/responsive-react-navbar-with-mega-menu-animated-hamburger-and-sticky-shrink-on-scroll [block] ? ★0 Free responsive React navbar in Tailwind: mega menu, dropdown, animate
+  0.693 @grootstudio/github-stars-react                              [block] MIT ★62 GitHub star count for Vite and non-Next.js React projects. Fetches cli
+  0.695 @registrydirectory/shadcnblocks/github-stars-github-stars-basic-1 [block] MIT ★78 [Shadcn Blocks] GitHub icon in an outlined button-style link.
+  0.732 @weinc/ray-marched-frosted-glass-pill-navbar-on-steel-standoffs-with-a-bead-of-light-inside-over-colour-block-photographs-that-slide-past [block] ? ★0 Free React navbar drawn as a pill of etched glass in a WebGL shader. A
+
+## hero: 'hero for a developer tool with search input and code' {'type': 'block'} -> semantic, 300
+  0.712 @registrydirectory/shadcn-ui-blocks/marketing-hero-forms-center-aligned-search-with-tags [block] MIT ★78 [shadcn-ui-blocks.com] A centered hero built around a search field wit
+  0.685 @astryx/example-text-input-search                            [block] MIT ★14890 Search input with a hidden label, start icon, and clear button. Use fo
+  0.721 @velora/hero-grid-minimal                                    [block] MIT ★61 Minimal hero on a retro grid with a typed headline accent, an install 
+  0.675 @astryx/example-use-hotkeys-search-and-help-shortcuts        [block] MIT ★14890 Page shortcuts registered with useHotkeys: "/" focuses the search fiel
+  0.710 @registrydirectory/shadcn-ui-blocks/marketing-hero-sections-with-code-preview [block] MIT ★78 [shadcn-ui-blocks.com] A hero pairing a headline and CTA with a syntax
+  0.705 @registrydirectory/shadcn-ui-blocks/marketing-hero-sections-with-email-input [block] MIT ★78 [shadcn-ui-blocks.com] A hero centered on an inline email capture form
+
+## hero-alt: 'hero section with animated terminal'  -> semantic, 301
+  0.784 @registrydirectory/shadcn-ui-blocks/marketing-hero-sections-with-terminal [block] MIT ★78 [shadcn-ui-blocks.com] A hero pairing a headline and CTA with an anima
+  0.809 @registrydirectory/uday-a/hero-ascii-terminal-stream         [block] MIT ★78 [UIPKGE] Retro-futuristic ASCII terminal stream hero section with comm
+  0.760 @lema-ds/ds-hero-terminal                                    [block] ? ★0 Hero split com preview de terminal/navegador — composto de ds-hero-sec
+  0.795 @uiception/hero-section-v2                                   [block] MIT ★3 Two-column hero with headline on the left, live event-stream animation
+  0.781 @uiception/hero-section-v1                                   [block] MIT ★3 Full hero block: two-column headline/CTA, brands marquee strip, and an
+  0.769 @registrydirectory/uday-a/hero-developer-terminal            [block] MIT ★78 [UIPKGE] Developer-first hero section with split value proposition and
+
+## live-search: 'command palette search results list'  -> semantic, 301
+  0.807 @astryx/component-command-palette-list                       [component] MIT ★14890 Scrollable results container. Renders as a listbox standalone, and ins
+  0.782 @astryx/showcase-command-palette-list-default                [block] MIT ★14890 Scrollable command palette list with grouped items, including a highli
+  0.778 @astryx/example-command-palette-async-search                 [block] MIT ★14890 Server-side search with loading spinner and custom empty states.
+  0.801 @astryx/component-command-palette-empty                      [component] MIT ★14890 Empty state display for the results area. CommandPalette renders it au
+  0.800 @astryx/showcase-command-palette-default                     [block] MIT ★14890 Basic command palette with static items and keyboard navigation.
+  0.744 @astryx/example-command-palette-list-item-states             [block] MIT ★14890 Flat list showing the highlighted, selected, and disabled item states.
+
+## problem: 'before and after comparison section' {'type': 'block'} -> semantic, 301
+  0.717 @photocn/before-after                                        [block] MIT ★5 Drag to compare the original with the edit.
+  0.675 @registrydirectory/shadcn-ui-blocks/marketing-feature-sections-with-comparison [block] MIT ★78 [shadcn-ui-blocks.com] A feature block that places before and after st
+  0.686 @devl/before-after-hero                                      [block] MIT ★222 A hero split down the middle: drag the handle and a messy expense spre
+  0.709 @wensity/before-after-card                                   [block] ? ★0 Drag the handle to wipe between before and after images with absolutel
+  0.739 @hirael/comparison-03                                        [block] MIT ★40 Before and after panels side by side, the old way muted with crosses a
+  0.691 @registrydirectory/uday-a/how-it-works-before-after          [block] MIT ★78 [UIPKGE] Two-column process contrast setting the old workflow against 
+
+## stats: 'animated number ticker statistics'  -> semantic, 300
+  0.846 @fancy-ui/number-ticker                                      [ui] MIT ★24 Animated number counter with easing, triggered on viewport entry
+  0.771 @beui/number-ticker                                          [component] MIT ★1934 Slot-machine rolling digits with staggered entry.
+  0.817 @cuelark/number-ticker                                       [ui] MIT ★1 Odometer-style animated counter with Intl formatting.
+  0.810 @stacklyui/number-ticker                                     [ui] MIT ★1 Animated count-up that triggers when scrolled into view.
+  0.797 @registrydirectory/cuelark/number-ticker                     [ui] MIT ★78 [Cuelark UI] Odometer-style animated counter with Intl formatting.
+  0.752 @beui/animated-number                                        [component] MIT ★1934 Spring-driven count-up triggered when in view.
+
+## logos: 'logo marquee infinite scroll'  -> semantic, 335
+  0.823 @beui/marquee                                                [component] MIT ★1934 Infinite horizontal or vertical scroll with pause-on-hover.
+  0.802 @reactframe/infinite-marquee                                 [component] MIT ★1 A seamless scrolling text marquee with solid/gradient/outline text sty
+  0.805 @smoothui/logo-cloud-3                                       [block] MIT ★1046 Infinite scrolling logo marquee
+  0.783 @reactframe/logo-marquee                                     [component] MIT ★1 An infinite scrolling row of client/partner logos with edge fade masks
+  0.810 @tweenly/marquee                                             [component] MIT ★3 Infinite, seamless scrolling row or column of content.
+  0.799 @cuelark/marquee                                             [ui] MIT ★1 Seamless infinite scrolling loop that eases to a stop on hover.
+
+## how-it-works: 'how it works steps pipeline' {'type': 'block'} -> semantic, 300
+  0.720 @registrydirectory/uday-a/how-it-works-tabbed-steps          [block] MIT ★78 [UIPKGE] Step explainer where a vertical tab list of stages swaps a pa
+  0.748 @karaui/how-it-works                                         [block] MIT ★4 Numbered steps section whose connector draws from marker to marker as 
+  0.719 @balick/steps-01                                             [block] MIT ★1 Four numbered steps joined by a connector, horizontal on desktop and v
+  0.727 @registrydirectory/uday-a/how-it-works-steps                 [block] MIT ★78 [UIPKGE] Horizontal three-step explainer with numbered markers on a co
+  0.719 @registrydirectory/uday-a/how-it-works-scroll-stepper        [block] MIT ★78 [UIPKGE] Scroll-driven walkthrough where a sticky progress rail tracks
+  0.725 @7ovr/how-it-works-3                                         [block] ? ★0 Interactive how it works stepper with clickable steps along a progress
+
+## features: 'bento grid features section' {'type': 'block'} -> semantic, 307
+  0.843 @velora/features-bento                                       [block] MIT ★61 Five-card bento grid with live visuals: integration beams, orbiting ic
+  0.821 @weinc/bento-grid-six-tiles-with-one-large-feature-tile      [block] ? ★0 Free bento grid feature section in CSS and Tailwind: one large lead ti
+  0.831 @registrydirectory/aceternity/features-section-demo-3        [block] MIT ★78 [Aceternity UI] Bento Grid
+  0.816 @facade/bento-grid                                           [block] MIT ★0 Feature tiles in mixed sizes. Tiles are placed in the order you give, 
+  0.854 @balick/features-01                                          [block] MIT ★1 Bento grid of four illustrated features, followed by a row of secondar
+  0.816 @cortexcn/feature-bento-grid-01                              [block] MIT ★2 A bento of photo tiles, logo tiles, and stat cards on a twelve-column 
+
+## code-tabs: 'code block with tabs and copy button'  -> semantic, 301
+  0.805 @velora/code-block                                           [ui] MIT ★61 Code panel with tabs, line numbers, highlighted lines and a copy butto
+  0.782 @registrydirectory/shadcnblocks/copy-button                  [component] MIT ★78 [Shadcn Blocks] A button that copies a string to the clipboard and swa
+  0.698 @weinc/css-button-styles-collection-with-copyable-html-and-css-for-every-button [component] ? ★0 Free collection of 137 CSS buttons in 18 families: 3D, glass, gradient
+  0.748 @fancy-ui/copy-button                                        [ui] MIT ★24 Button preset wired to the clipboard, morphing its icon and label to a
+  0.767 @localmode/ui/input-controls/copy-button                     [component] MIT ★68 A copy-to-clipboard button that shows a 2-second Copied confirmation, 
+  0.773 @velobits/code-block                                         [ui] NOASSERTION ★0 Preformatted code, with a copy button that survives an insecure origin
+
+## terminal: 'terminal window typing animation'  -> semantic, 300
+  0.761 @registrydirectory/magicui/typing-animation                  [ui] MIT ★78 [Magic UI] Characters appearing in typed animation
+  0.753 @cult-ui/terminal-animation                                  [ui] MIT ★7020 Composable terminal animation primitives with typed command playback, 
+  0.753 @remocn/icon-terminal                                        [component] MIT ★1691 Animated Lucide terminal icon — draws on, then the prompt nudges forwa
+  0.752 @uniquel/typing-animation                                    [component] ? ★0 A minimal typing animation with smart backspacing, an optional cursor,
+  0.754 @fancy-ui/terminal-text                                      [ui] MIT ★24 Terminal-style text streamer with per-character animation, blinking cu
+  0.770 @minidev/terminal                                            [component] MIT ★2 An animated terminal window that types each command and prints its out
+
+## mcp-config: 'install instructions package manager tabs npm pnpm'  -> semantic, 300
+  0.840 @tealmac/install-tabs                                        [ui] ? ★0 Package-manager tabs for a CLI command (pnpm, npm, yarn, bun) with a c
+  0.753 @navui/package-manager-command                               [ui] MIT ★6 Accessible package-manager selector and copy command bar for npm, pnpm
+  0.766 @01orbital/install-switcher                                  [ui] ? ★0 Install command with the package manager as a gliding segmented switch
+  0.731 @registrydirectory/shadcn-dashboard/tabs-08                  [component] MIT ★78 [Shadcn Dashboard] Install command tabs for npm, pnpm, yarn and bun wi
+  0.673 @spaceui/demo-p-tabs-04                                      [ui] MIT ★60 Tabs with icon before name
+  0.720 @registrydirectory/brio-ui/install-command                   [ui] MIT ★78 [Brio UI] npm / pnpm / yarn / bun tabs where only the words that diffe
+
+## receipt: 'file tree'  -> semantic, 387
+  0.839 @sudokw/files-file-tree                                      [component] MIT ★1 A file tree with declarative folders and one selection
+  0.862 @magicui/file-tree                                           [ui] MIT ★23137 A component used to showcase the folder and file structure of a direct
+  0.820 @creance/file-tree                                           [ui] MIT ★0 Files and folders with change markers. Arrow keys walk the tree.
+  0.874 @mischief/file-tree                                          [ui] MIT ★6 An expandable tree of folders and files with full keyboard navigation.
+  0.789 @assistant-ui/elements-file-tree                             [component] MIT ★13001 Everything a run touched, as a tree, with the churn spelled out per fi
+  0.843 @pastaui/file-tree                                           [component] MIT ★3 A keyboard-navigable file tree with collapsible folders, git change ba
+
+## faq: 'faq accordion section' {'type': 'block'} -> semantic, 331
+  0.804 @velora/faq-accordion                                        [block] MIT ★61 Centered heading over an accordion of eight questions, closed by a con
+  0.805 @navui/faqs-section-two                                      [block] MIT ★6 A centered FAQ section with accessible accordions and a follow-up cont
+  0.794 @saastro/faq-01                                              [block] ? ★0 FAQ section with accordion for expandable questions and answers.
+  0.798 @uiception/faq-section-v1                                    [block] MIT ★3 Minimal centered FAQ with a simple headline and clean divider accordio
+  0.795 @navui/faq-section-three                                     [block] MIT ★6 An editorial FAQ section with a large introduction and accessible acco
+  0.791 @uiception/faq-section-v2                                    [block] MIT ★3 Minimal centered FAQ with a simple headline and clean divider accordio
+
+## cta: 'call to action section with background beams' {'type': 'block'} -> semantic, 300
+  0.746 @payload-components/call-to-action-boxed                     [block] MIT ★49 Boxed Payload call-to-action block: heading, copy, and CTA links insid
+  0.733 @registrydirectory/payload-components/call-to-action-boxed   [block] MIT ★78 [Payload Components] Boxed Payload call-to-action block: heading, copy
+  0.703 @payload-components/call-to-action-centered                  [block] MIT ★49 Centered Payload call-to-action block: heading, copy, and one or two C
+  0.722 @ballmac/cta-1                                               [block] MIT ★12 A closing call-to-action panel: large heading, one line of reassurance
+  0.687 @registrydirectory/payload-components/call-to-action-centered [block] MIT ★78 [Payload Components] Centered Payload call-to-action block: heading, c
+  0.664 @astryx/example-layout-header-with-actions                   [block] MIT ★14890 A fixed page header with a title and a primary action, above scrollabl
+
+## footer: 'minimal footer with links' {'type': 'block'} -> semantic, 307
+  0.821 @spectrumui/minimal-footer                                   [block] Apache-2.0 ★1530 A single-line footer with hover-expanding link clusters, status and so
+  0.761 @registrydirectory/motion-menu/minimal-sign-off-footer       [block] MIT ★78 [Motion Menu] &quot;close it out with a minimal sign-off&quot; — a hai
+  0.753 @registrydirectory/shadcn-ui-blocks/marketing-footers-minimal [block] MIT ★78 [shadcn-ui-blocks.com] A compact footer with a single line of copyrigh
+  0.809 @registrydirectory/uday-a/footer-minimal-row                 [block] MIT ★78 [UIPKGE] Single-row footer carrying the wordmark, a short inline link 
+  0.747 @ui-layouts/footer-minimal                                   [block] MIT ★3845 
+  0.735 @pacekit/marketing-footer-1                                  [block] ? ★16 Minimal centered layout with brand mark, call-to-action button, horizo
+
+## themes tech: ['modern-minimal', 'perpetuity', 'bold-tech', 'supabase', 'darkmatter']
+## themes minimal: ['modern-minimal', 'twitter', 'graphite', 'amber-minimal']
+## facets: {'icon/logo': 43049, 'component': 17912, 'form': 7121, 'nav/header': 4223, 'text-effects': 3385, 'chart': 3313, 'chat/ai': 2802, 'overlay': 2601}

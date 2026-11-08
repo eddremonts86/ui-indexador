@@ -1,0 +1,1515 @@
+{
+ "about": "How each section of this page was found with ui-indexador: the queries (run through its MCP server), the candidates and the one chosen.",
+ "catalog_built": "2026-11-08",
+ "indexer_commit": "142c5572c",
+ "filters": {
+  "osi_only": true,
+  "framework": "react"
+ },
+ "sections": [
+  {
+   "section": "navbar",
+   "queries": [
+    {
+     "query": "minimal navbar with logo links and github button",
+     "mode": "semantic",
+     "total": 300,
+     "type": "block"
+    },
+    {
+     "query": "github star button with count",
+     "mode": "semantic",
+     "total": 301,
+     "type": "block"
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@elements/github-star-button",
+     "similarity": 0.83,
+     "type": "block",
+     "kind": "contact/cta",
+     "license": "MIT",
+     "stars": 538,
+     "install": "npx shadcn@latest add @elements/github-star-button",
+     "description": "An interactive star button with live star count that links to a GitHub repository. Perfect for call-to-action elements.",
+     "view": {
+      "deps": [],
+      "registryDeps": [],
+      "files": 1,
+      "lines": 121,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@cnippet/v-button-20",
+     "similarity": 0.778,
+     "type": "block",
+     "kind": "button",
+     "license": "MIT",
+     "stars": 14,
+     "install": "npx shadcn@latest add @cnippet/v-button-20",
+     "description": "Star button with count",
+     "view": {
+      "deps": [],
+      "registryDeps": [
+       "@cnippet/button"
+      ],
+      "files": 1,
+      "lines": 15,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@coss/p-button-26",
+     "similarity": 0.761,
+     "type": "block",
+     "kind": "button",
+     "license": "MIT",
+     "stars": 10797,
+     "install": "npx shadcn@latest add @coss/p-button-26",
+     "description": "Star button with count badge",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "@coss/button"
+      ],
+      "files": 1,
+      "lines": 23,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@karaui/navigation-menu",
+     "similarity": 0.75,
+     "type": "block",
+     "kind": "logos/marquee",
+     "license": "MIT",
+     "stars": 4,
+     "install": "npx shadcn@latest add @karaui/navigation-menu",
+     "description": "Site navbar with a logo slot, plain links and mega-menu panels: a hover pill glides between items, the dropdown viewport morphs its size to "
+    },
+    {
+     "item": "@uiception/navbar-section-v10",
+     "similarity": 0.745,
+     "type": "block",
+     "kind": "logos/marquee",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/navbar-section-v10",
+     "description": "Edra-inspired two-column navbar with logo chip and hamburger that expands in-place into a dialog card with primary and footer links, plus a "
+    },
+    {
+     "item": "@grootstudio/github-stars",
+     "similarity": 0.744,
+     "type": "block",
+     "kind": "overlay",
+     "license": "MIT",
+     "stars": 62,
+     "install": "npx shadcn@latest add @grootstudio/github-stars",
+     "description": "Displays a GitHub repo star count with auto-fetch, daily revalidation, compact formatting, and a tooltip."
+    }
+   ],
+   "chosen": "@elements/github-star-button",
+   "composed": true,
+   "why": "The indexed navbars were mega-menus or WebGL pieces, so the bar is composed; its GitHub star button (top match, 0.83, no dependencies) was added once the repo went public.",
+   "install": "npx shadcn@latest add @elements/github-star-button"
+  },
+  {
+   "section": "hero",
+   "queries": [
+    {
+     "query": "hero for a developer tool with search input",
+     "mode": "semantic",
+     "total": 300,
+     "type": "block"
+    },
+    {
+     "query": "hero section with code preview or terminal for developer tool",
+     "mode": "semantic",
+     "total": 300,
+     "type": "block"
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@uiception/hero-section-v1",
+     "similarity": 0.76,
+     "type": "block",
+     "kind": "hero",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/hero-section-v1",
+     "description": "Full hero block: two-column headline/CTA, brands marquee strip, and animated macOS terminal integration demo.",
+     "view": {
+      "deps": [
+       "geist@^1.7.0"
+      ],
+      "registryDeps": [
+       "https://uiception.com/r/block-media.json",
+       "button",
+       "https://uiception.com/r/mac-os-terminal.json",
+       "https://uiception.com/r/brands-section-v1.json"
+      ],
+      "files": 4,
+      "lines": 101,
+      "unusual_deps": [
+       "geist@^1.7.0"
+      ]
+     }
+    },
+    {
+     "item": "@uiception/cursor-terminal",
+     "similarity": 0.755,
+     "type": "block",
+     "kind": "hero",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/cursor-terminal",
+     "description": "VS Code / Cursor panel mock with PowerShell prompt and a typed shadcn add flow for the hero-section-v1 registry block.",
+     "view": {
+      "deps": [],
+      "registryDeps": [],
+      "files": 8,
+      "lines": 491,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@uiception/hero-section-v2",
+     "similarity": 0.734,
+     "type": "block",
+     "kind": "hero",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/hero-section-v2",
+     "description": "Two-column hero with headline on the left, live event-stream animation on the right, and a brands marquee strip below. GSAP timeline animate",
+     "view": {
+      "deps": [
+       "gsap"
+      ],
+      "registryDeps": [
+       "https://uiception.com/r/event-stream.json",
+       "https://uiception.com/r/brands-section-v2.json"
+      ],
+      "files": 4,
+      "lines": 147,
+      "unusual_deps": [
+       "gsap"
+      ]
+     }
+    },
+    {
+     "item": "@uiception/hero-section-v3",
+     "similarity": 0.729,
+     "type": "block",
+     "kind": "hero",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/hero-section-v3",
+     "description": "Centered hero with badge, headline, CTA, and an embedded animated chat preview (messages, typing, suggestions)."
+    },
+    {
+     "item": "@balick/hero-01",
+     "similarity": 0.727,
+     "type": "block",
+     "kind": "hero",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @balick/hero-01",
+     "description": "Centred hero with announcement pill, animated headline, product preview and a scrolling logo cloud."
+    },
+    {
+     "item": "@balick/hero-02",
+     "similarity": 0.72,
+     "type": "block",
+     "kind": "hero",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @balick/hero-02",
+     "description": "Left-aligned hero with key figures and an animated deploy terminal. No logo strip, so it pairs with logos-01."
+    }
+   ],
+   "status": "chosen by Edd from screenshots (A)",
+   "rejected": {
+    "@uiception/hero-section-v1": "Next.js only (next/image, node:fs); the index cannot see this because next is not in its dependencies"
+   },
+   "rendered": [
+    "@balick/hero-01",
+    "@balick/hero-02",
+    "@uiception/hero-section-v3"
+   ],
+   "chosen": "@balick/hero-01",
+   "install": "npx shadcn@latest add @balick/hero-01",
+   "why": "Edd picked it from screenshots of three. @uiception/hero-section-v1, the top match, is Next.js-only. The product window became a live search against /items; the logo marquee shows the top-ranked registries.",
+   "changes": [
+    "copy",
+    "ProductPreview replaced by SearchPreview (real search)",
+    "logo marquee fed by /registries",
+    "type size reduced for the monospace theme"
+   ]
+  },
+  {
+   "section": "numbers",
+   "queries": [
+    {
+     "query": "animated number ticker statistics",
+     "mode": "semantic",
+     "total": 300
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@fancy-ui/number-ticker",
+     "similarity": 0.846,
+     "type": "ui",
+     "kind": "stats",
+     "license": "MIT",
+     "stars": 24,
+     "install": "npx shadcn@latest add @fancy-ui/number-ticker",
+     "description": "Animated number counter with easing, triggered on viewport entry",
+     "view": {
+      "deps": [],
+      "registryDeps": [
+       "https://fancy-ui.rama.app/r/internals-dom.json",
+       "https://fancy-ui.rama.app/r/utils.json"
+      ],
+      "files": 2,
+      "lines": 159,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@cuelark/number-ticker",
+     "similarity": 0.817,
+     "type": "ui",
+     "kind": "stats",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @cuelark/number-ticker",
+     "description": "Odometer-style animated counter with Intl formatting.",
+     "view": {
+      "deps": [
+       "gsap"
+      ],
+      "registryDeps": [
+       "utils",
+       "https://ui.cuelark.com/r/theme.json",
+       "https://ui.cuelark.com/r/motion.json"
+      ],
+      "files": 1,
+      "lines": 101,
+      "unusual_deps": [
+       "gsap"
+      ]
+     }
+    },
+    {
+     "item": "@stacklyui/number-ticker",
+     "similarity": 0.81,
+     "type": "ui",
+     "kind": "text-effects",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @stacklyui/number-ticker",
+     "description": "Animated count-up that triggers when scrolled into view.",
+     "view": {
+      "deps": [
+       "motion"
+      ],
+      "registryDeps": [
+       "@stacklyui/cn"
+      ],
+      "files": 1,
+      "lines": 104,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@000h-cojeev/animated-number",
+     "similarity": 0.793,
+     "type": "ui",
+     "kind": "stats",
+     "license": "MIT",
+     "stars": 67,
+     "install": "npx shadcn@latest add @000h-cojeev/animated-number",
+     "description": "A smooth, interruptible number transition for totals, metrics and small moments of progress."
+    },
+    {
+     "item": "@beui/number-ticker",
+     "similarity": 0.771,
+     "type": "component",
+     "kind": "text-effects",
+     "license": "MIT",
+     "stars": 1934,
+     "install": "npx shadcn@latest add @beui/number-ticker",
+     "description": "Slot-machine rolling digits with staggered entry."
+    },
+    {
+     "item": "@karaui/number-ticker",
+     "similarity": 0.762,
+     "type": "component",
+     "kind": "form",
+     "license": "MIT",
+     "stars": 4,
+     "install": "npx shadcn@latest add @karaui/number-ticker",
+     "description": "Every digit spins into place on its own reel, each starting a beat after the last; supports zero padding, prefix, suffix, comma grouping and"
+    }
+   ],
+   "chosen": "@fancy-ui/number-ticker",
+   "why": "No dependencies; counts up on viewport entry. Fed by /health and /facets.",
+   "install": "npx shadcn@latest add @fancy-ui/number-ticker"
+  },
+  {
+   "section": "registries-strip",
+   "queries": [
+    {
+     "query": "logo marquee infinite scroll",
+     "mode": "semantic",
+     "total": 318
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@beui/marquee",
+     "similarity": 0.823,
+     "type": "component",
+     "kind": "logos/marquee",
+     "license": "MIT",
+     "stars": 1934,
+     "install": "npx shadcn@latest add @beui/marquee",
+     "description": "Infinite horizontal or vertical scroll with pause-on-hover.",
+     "view": {
+      "deps": [
+       "clsx",
+       "tailwind-merge"
+      ],
+      "registryDeps": [],
+      "files": 2,
+      "lines": 73,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@tweenly/marquee",
+     "similarity": 0.81,
+     "type": "component",
+     "kind": "logos/marquee",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @tweenly/marquee",
+     "description": "Infinite, seamless scrolling row or column of content.",
+     "view": {
+      "deps": [
+       "motion"
+      ],
+      "registryDeps": [
+       "utils"
+      ],
+      "files": 1,
+      "lines": 82,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@smoothui/logo-cloud-3",
+     "similarity": 0.805,
+     "type": "block",
+     "kind": "logos/marquee",
+     "license": "MIT",
+     "stars": 1046,
+     "install": "npx shadcn@latest add @smoothui/logo-cloud-3",
+     "description": "Infinite scrolling logo marquee",
+     "view": {
+      "deps": [],
+      "registryDeps": [
+       "https://smoothui.dev/r/shared.json"
+      ],
+      "files": 1,
+      "lines": 136,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@reactframe/infinite-marquee",
+     "similarity": 0.802,
+     "type": "component",
+     "kind": "logos/marquee",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @reactframe/infinite-marquee",
+     "description": "A seamless scrolling text marquee with solid/gradient/outline text styles, a separator, double-row mode, edge fade, and pause-on-hover."
+    },
+    {
+     "item": "@cuelark/marquee",
+     "similarity": 0.799,
+     "type": "ui",
+     "kind": "logos/marquee",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @cuelark/marquee",
+     "description": "Seamless infinite scrolling loop that eases to a stop on hover."
+    },
+    {
+     "item": "@reactframe/logo-marquee",
+     "similarity": 0.783,
+     "type": "component",
+     "kind": "logos/marquee",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @reactframe/logo-marquee",
+     "description": "An infinite scrolling row of client/partner logos with edge fade masks, grayscale-to-color hover reveal, pause-on-hover, and a constant spee"
+    }
+   ],
+   "chosen": "@balick/hero-01",
+   "why": "The hero already ships a Marquee; it shows the top-ranked registries from /registries instead of a separate strip.",
+   "install": "npx shadcn@latest add @balick/hero-01"
+  },
+  {
+   "section": "problem",
+   "queries": [
+    {
+     "query": "before and after comparison section old way new way",
+     "mode": "semantic",
+     "total": 300,
+     "type": "block"
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@hirael/comparison-03",
+     "similarity": 0.774,
+     "type": "block",
+     "kind": "form",
+     "license": "MIT",
+     "stars": 40,
+     "install": "npx shadcn@latest add @hirael/comparison-03",
+     "description": "Before and after panels side by side, the old way muted with crosses and the new way ticked, a Before/After switch on small screens, closing",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "button",
+       "toggle-group"
+      ],
+      "files": 1,
+      "lines": 158,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@photocn/before-after",
+     "similarity": 0.692,
+     "type": "block",
+     "kind": "kanban/board",
+     "license": "MIT",
+     "stars": 5,
+     "install": "npx shadcn@latest add @photocn/before-after",
+     "description": "Drag to compare the original with the edit.",
+     "view": {
+      "deps": [
+       "photocn@^0.1.1"
+      ],
+      "registryDeps": [],
+      "files": 1,
+      "lines": 85,
+      "unusual_deps": [
+       "photocn@^0.1.1"
+      ]
+     }
+    },
+    {
+     "item": "@devl/before-after-hero",
+     "similarity": 0.652,
+     "type": "block",
+     "kind": "hero",
+     "license": "MIT",
+     "stars": 222,
+     "install": "npx shadcn@latest add @devl/before-after-hero",
+     "description": "A hero split down the middle: drag the handle and a messy expense spreadsheet turns into a clean, matched ledger row by row, while the headl",
+     "view": {
+      "deps": [
+       "lucide-react",
+       "motion"
+      ],
+      "registryDeps": [
+       "utils",
+       "https://coss.com/ui/r/button.json"
+      ],
+      "files": 1,
+      "lines": 614,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@uiception/testimonials-section-v4",
+     "similarity": 0.638,
+     "type": "block",
+     "kind": "testimonials",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/testimonials-section-v4",
+     "description": "Centered headline with dual CTAs above a three-up shader portrait carousel of six customer stories with grouped navigation."
+    },
+    {
+     "item": "@uiception/changelog-section-v3",
+     "similarity": 0.634,
+     "type": "block",
+     "kind": "timeline/experience",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/changelog-section-v3",
+     "description": "Two-column changelog with a bracket timeline of long-form dates on the left and, on the right, entry title, description, and a contributor a"
+    },
+    {
+     "item": "@ballmac/comparison-1",
+     "similarity": 0.628,
+     "type": "block",
+     "kind": "table",
+     "license": "MIT",
+     "stars": 12,
+     "install": "npx shadcn@latest add @ballmac/comparison-1",
+     "description": "A product-versus-alternatives table where your column is lifted into its own card, with yes, partly, no and text values and a row of headlin"
+    }
+   ],
+   "chosen": "@hirael/comparison-03",
+   "why": "Before/after panels with the old way muted, plus three outcomes: exactly the argument. Serif heading switched to the theme font.",
+   "install": "npx shadcn@latest add @hirael/comparison-03"
+  },
+  {
+   "section": "how-it-works",
+   "queries": [
+    {
+     "query": "how it works numbered steps section",
+     "mode": "semantic",
+     "total": 302,
+     "type": "block"
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@velora/features-steps",
+     "similarity": 0.825,
+     "type": "block",
+     "kind": "features",
+     "license": "MIT",
+     "stars": 61,
+     "install": "npx shadcn@latest add @velora/features-steps",
+     "description": "How-it-works section with four numbered steps on a gradient connector line, each with a small UI visual.",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "utils",
+       "https://velora.colorlib.com/r/avatar-circles.json",
+       "https://velora.colorlib.com/r/blur-fade.json",
+       "https://velora.colorlib.com/r/border-beam.json",
+       "https://velora.colorlib.com/r/number-ticker.json"
+      ],
+      "files": 1,
+      "lines": 206,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@karaui/how-it-works",
+     "similarity": 0.815,
+     "type": "block",
+     "kind": "onboarding/steps",
+     "license": "MIT",
+     "stars": 4,
+     "install": "npx shadcn@latest add @karaui/how-it-works",
+     "description": "Numbered steps section whose connector draws from marker to marker as it scrolls into view, lighting each marker as the line arrives; horizo",
+     "view": {
+      "deps": [
+       "clsx",
+       "motion",
+       "tailwind-merge"
+      ],
+      "registryDeps": [],
+      "files": 3,
+      "lines": 399,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@uiception/how-it-works-section-v1",
+     "similarity": 0.797,
+     "type": "block",
+     "kind": "onboarding/steps",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/how-it-works-section-v1",
+     "description": "Three-step process section with accent-colored heading prefix, top-border step numbers, and staggered IntersectionObserver entrance animatio",
+     "view": {
+      "deps": [
+       "geist"
+      ],
+      "registryDeps": [
+       "card"
+      ],
+      "files": 6,
+      "lines": 179,
+      "unusual_deps": [
+       "geist"
+      ]
+     }
+    },
+    {
+     "item": "@facade/steps",
+     "similarity": 0.774,
+     "type": "block",
+     "kind": "ecommerce",
+     "license": "MIT",
+     "stars": 0,
+     "install": "npx shadcn@latest add @facade/steps",
+     "description": "A \"how it works\" sequence as an ordered list, so the order is in the markup and not only in the visible numbers."
+    },
+    {
+     "item": "@balick/steps-01",
+     "similarity": 0.761,
+     "type": "block",
+     "kind": "onboarding/steps",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @balick/steps-01",
+     "description": "Four numbered steps joined by a connector, horizontal on desktop and vertical on mobile."
+    },
+    {
+     "item": "@hirael/process-02",
+     "similarity": 0.75,
+     "type": "block",
+     "kind": "onboarding/steps",
+     "license": "MIT",
+     "stars": 40,
+     "install": "npx shadcn@latest add @hirael/process-02",
+     "description": "Four-step install section. Picking a step fills the connector up to it and swaps in a detail panel with a short checklist, and the section c"
+    }
+   ],
+   "chosen": "@karaui/how-it-works",
+   "why": "Numbered steps whose connector draws as you scroll; motion is the only dependency.",
+   "install": "npx shadcn@latest add @karaui/how-it-works"
+  },
+  {
+   "section": "live-search",
+   "queries": [
+    {
+     "query": "command palette async search results",
+     "mode": "semantic",
+     "total": 300
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@astryx/example-command-palette-async-search",
+     "similarity": 0.817,
+     "type": "block",
+     "kind": "error/empty",
+     "license": "MIT",
+     "stars": 14914,
+     "install": "npx shadcn@latest add @astryx/example-command-palette-async-search",
+     "description": "Server-side search with loading spinner and custom empty states.",
+     "view": {
+      "deps": [
+       "@astryxdesign/core@0.7.11",
+       "@stylexjs/stylex@0.19.0"
+      ],
+      "registryDeps": [],
+      "files": 2,
+      "lines": 82,
+      "unusual_deps": [
+       "@astryxdesign/core@0.7.11",
+       "@stylexjs/stylex@0.19.0"
+      ]
+     }
+    },
+    {
+     "item": "@astryx/showcase-command-palette-default",
+     "similarity": 0.784,
+     "type": "block",
+     "kind": "nav/header",
+     "license": "MIT",
+     "stars": 14914,
+     "install": "npx shadcn@latest add @astryx/showcase-command-palette-default",
+     "description": "Basic command palette with static items and keyboard navigation.",
+     "view": {
+      "deps": [
+       "@astryxdesign/core@0.7.11",
+       "@stylexjs/stylex@0.19.0"
+      ],
+      "registryDeps": [],
+      "files": 2,
+      "lines": 61,
+      "unusual_deps": [
+       "@astryxdesign/core@0.7.11",
+       "@stylexjs/stylex@0.19.0"
+      ]
+     }
+    },
+    {
+     "item": "@astryx/component-command-palette-empty",
+     "similarity": 0.773,
+     "type": "component",
+     "kind": "error/empty",
+     "license": "MIT",
+     "stars": 14914,
+     "install": "npx shadcn@latest add @astryx/component-command-palette-empty",
+     "description": "Empty state display for the results area. CommandPalette renders it automatically when a search returns no results, or when there is no quer",
+     "view": {
+      "deps": [
+       "@astryxdesign/core@0.7.11",
+       "@stylexjs/stylex@0.19.0"
+      ],
+      "registryDeps": [],
+      "files": 1,
+      "lines": 1,
+      "unusual_deps": [
+       "@astryxdesign/core@0.7.11",
+       "@stylexjs/stylex@0.19.0"
+      ]
+     }
+    },
+    {
+     "item": "@astryx/component-command-palette-input",
+     "similarity": 0.764,
+     "type": "component",
+     "kind": "overlay",
+     "license": "MIT",
+     "stars": 14914,
+     "install": "npx shadcn@latest add @astryx/component-command-palette-input",
+     "description": "Search input slot. Auto-focuses on mount. Wires to command palette context when used inside CommandPalette."
+    },
+    {
+     "item": "@astryx/component-command-palette-list",
+     "similarity": 0.764,
+     "type": "component",
+     "kind": "overlay",
+     "license": "MIT",
+     "stars": 14914,
+     "install": "npx shadcn@latest add @astryx/component-command-palette-list",
+     "description": "Scrollable results container. Renders as a listbox standalone, and inside CommandPalette while selectable results exist. Contains CommandPal"
+    },
+    {
+     "item": "@astryx/showcase-command-palette-input-default",
+     "similarity": 0.763,
+     "type": "block",
+     "kind": "projects/showcase",
+     "license": "MIT",
+     "stars": 14914,
+     "install": "npx shadcn@latest add @astryx/showcase-command-palette-input-default",
+     "description": "Command palette search input with a custom placeholder and a keyboard shortcut hint in the endContent slot."
+    }
+   ],
+   "rejected": {
+    "@astryx/*": "needs @astryxdesign/core and StyleX, a second styling system"
+   },
+   "plan": "compose from the official @shadcn command + input items (cmdk), also in the index",
+   "chosen": null,
+   "why": "The @astryx palettes need StyleX; composed from the hero's own search box, with type filters and 8 results.",
+   "composed": true
+  },
+  {
+   "section": "features",
+   "queries": [
+    {
+     "query": "bento grid features section",
+     "mode": "semantic",
+     "total": 303,
+     "type": "block"
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@balick/features-01",
+     "similarity": 0.854,
+     "type": "block",
+     "kind": "features",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @balick/features-01",
+     "description": "Bento grid of four illustrated features, followed by a row of secondary features.",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "https://ui.balick.me/r/marquee.json",
+       "https://ui.balick.me/r/section.json",
+       "https://ui.balick.me/r/status-dot.json"
+      ],
+      "files": 1,
+      "lines": 163,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@velora/features-bento",
+     "similarity": 0.843,
+     "type": "block",
+     "kind": "features",
+     "license": "MIT",
+     "stars": 61,
+     "install": "npx shadcn@latest add @velora/features-bento",
+     "description": "Five-card bento grid with live visuals: integration beams, orbiting icons, a chart, a tag marquee and a globe.",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "utils",
+       "https://velora.colorlib.com/r/animated-beam.json",
+       "https://velora.colorlib.com/r/bento-grid.json",
+       "https://velora.colorlib.com/r/blur-fade.json",
+       "https://velora.colorlib.com/r/globe.json",
+       "https://velora.colorlib.com/r/marquee.json",
+       "https://velora.colorlib.com/r/number-ticker.json",
+       "https://velora.colorlib.com/r/orbiting-circles.json"
+      ],
+      "files": 1,
+      "lines": 396,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@devl/feature-bento",
+     "similarity": 0.82,
+     "type": "block",
+     "kind": "features",
+     "license": "MIT",
+     "stars": 222,
+     "install": "npx shadcn@latest add @devl/feature-bento",
+     "description": "A bento grid of feature tiles, each with a tiny working demo (search, shortcuts, version history, a flow, a chart) that wakes up on hover an",
+     "view": {
+      "deps": [
+       "lucide-react",
+       "motion"
+      ],
+      "registryDeps": [
+       "utils"
+      ],
+      "files": 1,
+      "lines": 467,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@facade/bento-grid",
+     "similarity": 0.816,
+     "type": "block",
+     "kind": "features",
+     "license": "MIT",
+     "stars": 0,
+     "install": "npx shadcn@latest add @facade/bento-grid",
+     "description": "Feature tiles in mixed sizes. Tiles are placed in the order you give, so reading order matches what you see."
+    },
+    {
+     "item": "@cortexcn/feature-bento-grid-01",
+     "similarity": 0.816,
+     "type": "block",
+     "kind": "features",
+     "license": "MIT",
+     "stars": 2,
+     "install": "npx shadcn@latest add @cortexcn/feature-bento-grid-01",
+     "description": "A bento of photo tiles, logo tiles, and stat cards on a twelve-column grid, with one call to action"
+    },
+    {
+     "item": "@ballmac/features-1",
+     "similarity": 0.812,
+     "type": "block",
+     "kind": "features",
+     "license": "MIT",
+     "stars": 12,
+     "install": "npx shadcn@latest add @ballmac/features-1",
+     "description": "Bento feature grid of spotlight cards in two sizes, with an animated stat and keyboard-shortcut hints mixed in for texture."
+    }
+   ],
+   "chosen": "@balick/features-01",
+   "why": "Bento of four illustrated features plus a secondary row; lucide only.",
+   "install": "npx shadcn@latest add @balick/features-01"
+  },
+  {
+   "section": "integrate",
+   "queries": [
+    {
+     "query": "code block with tabs and copy button",
+     "mode": "semantic",
+     "total": 301
+    },
+    {
+     "query": "install command tabs",
+     "mode": "semantic",
+     "total": 301
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@velora/code-block",
+     "similarity": 0.805,
+     "type": "ui",
+     "kind": "editor",
+     "license": "MIT",
+     "stars": 61,
+     "install": "npx shadcn@latest add @velora/code-block",
+     "description": "Code panel with tabs, line numbers, highlighted lines and a copy button.",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "utils"
+      ],
+      "files": 1,
+      "lines": 202,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@akoder/copy-command-block",
+     "similarity": 0.776,
+     "type": "ui",
+     "kind": "portfolio/profile",
+     "license": "MIT",
+     "stars": 45,
+     "install": "npx shadcn@latest add @akoder/copy-command-block",
+     "description": "A multi-package manager terminal command box with tab switcher (npm, pnpm, yarn, bun), persistent storage, copy feedback animation, and blue",
+     "view": {
+      "deps": [
+       "lucide-react",
+       "motion",
+       "radix-ui"
+      ],
+      "registryDeps": [
+       "tooltip"
+      ],
+      "files": 1,
+      "lines": 354,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@localmode/ui/input-controls/copy-button",
+     "similarity": 0.767,
+     "type": "component",
+     "kind": "form",
+     "license": "MIT",
+     "stars": 68,
+     "install": "npx shadcn@latest add @localmode/ui/input-controls/copy-button",
+     "description": "A copy-to-clipboard button that shows a 2-second Copied confirmation, disables itself when there is nothing to copy, and treats an unavailab",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "https://localmode.ai/r/ui/lib/utils.json"
+      ],
+      "files": 1,
+      "lines": 63,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@astryx/example-code-block-code-snippet",
+     "similarity": 0.762,
+     "type": "block",
+     "kind": "nav/header",
+     "license": "MIT",
+     "stars": 14914,
+     "install": "npx shadcn@latest add @astryx/example-code-block-code-snippet",
+     "description": "Short terminal commands with no header: the copy button sits in its own column beside the code, so a one-line command reads as a single row "
+    },
+    {
+     "item": "@fancy-ui/copy-button",
+     "similarity": 0.748,
+     "type": "ui",
+     "kind": "button",
+     "license": "MIT",
+     "stars": 24,
+     "install": "npx shadcn@latest add @fancy-ui/copy-button",
+     "description": "Button preset wired to the clipboard, morphing its icon and label to a success or failure state for a moment after each copy attempt"
+    },
+    {
+     "item": "@eased/code-tabs",
+     "similarity": 0.74,
+     "type": "ui",
+     "kind": "editor",
+     "license": "MIT",
+     "stars": 1,
+     "install": "npx shadcn@latest add @eased/code-tabs",
+     "description": "Code tabs for React and shadcn: several files or one install command per package manager, with the pnpm or npm choice synced across the page"
+    }
+   ],
+   "chosen": "@velora/code-block",
+   "why": "Tabs, copy button, built-in tokenizer, no dependency.",
+   "install": "npx shadcn@latest add @velora/code-block"
+  },
+  {
+   "section": "built-with-itself",
+   "queries": [
+    {
+     "query": "file tree component",
+     "mode": "semantic",
+     "total": 306
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@magicui/file-tree",
+     "similarity": 0.77,
+     "type": "ui",
+     "kind": "file/upload",
+     "license": "MIT",
+     "stars": 23139,
+     "install": "npx shadcn@latest add @magicui/file-tree",
+     "description": "A component used to showcase the folder and file structure of a directory.",
+     "view": {
+      "deps": [],
+      "registryDeps": [],
+      "files": 1,
+      "lines": 501,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@smoothui/file-tree",
+     "similarity": 0.769,
+     "type": "ui",
+     "kind": "file/upload",
+     "license": "MIT",
+     "stars": 1046,
+     "install": "npx shadcn@latest add @smoothui/file-tree",
+     "description": "A FileTree component for SmoothUI.",
+     "view": {
+      "deps": [
+       "motion",
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "https://smoothui.dev/r/tokens.json"
+      ],
+      "files": 1,
+      "lines": 486,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@devl/file-tree",
+     "similarity": 0.716,
+     "type": "component",
+     "kind": "editor",
+     "license": "MIT",
+     "stars": 222,
+     "install": "npx shadcn@latest add @devl/file-tree",
+     "description": "A project tree that feels like your editor: arrow keys to open folders, git changes marked in colour, F2 to rename and drag to tidy things u",
+     "view": {
+      "deps": [
+       "lucide-react",
+       "motion"
+      ],
+      "registryDeps": [
+       "utils",
+       "https://coss.com/ui/r/kbd.json"
+      ],
+      "files": 1,
+      "lines": 592,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@creance/file-tree",
+     "similarity": 0.711,
+     "type": "ui",
+     "kind": "file/upload",
+     "license": "MIT",
+     "stars": 0,
+     "install": "npx shadcn@latest add @creance/file-tree",
+     "description": "Files and folders with change markers. Arrow keys walk the tree."
+    },
+    {
+     "item": "@astryx/component-file-input",
+     "similarity": 0.705,
+     "type": "component",
+     "kind": "file/upload",
+     "license": "MIT",
+     "stars": 14914,
+     "install": "npx shadcn@latest add @astryx/component-file-input",
+     "description": "FileInput provides file upload with optional drag-and-drop support. Use it for single or multiple file selection with built-in validation fo"
+    },
+    {
+     "item": "@assistant-ui/elements-file-tree",
+     "similarity": 0.693,
+     "type": "component",
+     "kind": "file/upload",
+     "license": "MIT",
+     "stars": 13003,
+     "install": "npx shadcn@latest add @assistant-ui/elements-file-tree",
+     "description": "Everything a run touched, as a tree, with the churn spelled out per file."
+    }
+   ],
+   "chosen": "@magicui/file-tree",
+   "why": "Most-starred registry of the shortlist (23k). Needed two undeclared dependencies (DOGFOOD.md).",
+   "install": "npx shadcn@latest add @magicui/file-tree"
+  },
+  {
+   "section": "faq",
+   "queries": [
+    {
+     "query": "faq accordion section",
+     "mode": "semantic",
+     "total": 315,
+     "type": "block"
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@navui/faqs-section-two",
+     "similarity": 0.805,
+     "type": "block",
+     "kind": "faq",
+     "license": "MIT",
+     "stars": 6,
+     "install": "npx shadcn@latest add @navui/faqs-section-two",
+     "description": "A centered FAQ section with accessible accordions and a follow-up contact link.",
+     "view": {
+      "deps": [],
+      "registryDeps": [
+       "accordion"
+      ],
+      "files": 1,
+      "lines": 88,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@velora/faq-accordion",
+     "similarity": 0.804,
+     "type": "block",
+     "kind": "faq",
+     "license": "MIT",
+     "stars": 61,
+     "install": "npx shadcn@latest add @velora/faq-accordion",
+     "description": "Centered heading over an accordion of eight questions, closed by a contact row.",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "utils",
+       "accordion",
+       "button",
+       "https://velora.colorlib.com/r/avatar-circles.json",
+       "https://velora.colorlib.com/r/blur-fade.json",
+       "https://velora.colorlib.com/r/grid-pattern.json"
+      ],
+      "files": 1,
+      "lines": 133,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@uiception/faq-section-v1",
+     "similarity": 0.798,
+     "type": "block",
+     "kind": "faq",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/faq-section-v1",
+     "description": "Minimal centered FAQ with a simple headline and clean divider accordion.",
+     "view": {
+      "deps": [],
+      "registryDeps": [
+       "accordion"
+      ],
+      "files": 4,
+      "lines": 96,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@navui/faq-section-three",
+     "similarity": 0.795,
+     "type": "block",
+     "kind": "faq",
+     "license": "MIT",
+     "stars": 6,
+     "install": "npx shadcn@latest add @navui/faq-section-three",
+     "description": "An editorial FAQ section with a large introduction and accessible accordion rows."
+    },
+    {
+     "item": "@facade/faq-accordion",
+     "similarity": 0.792,
+     "type": "block",
+     "kind": "faq",
+     "license": "MIT",
+     "stars": 0,
+     "install": "npx shadcn@latest add @facade/faq-accordion",
+     "description": "A FAQ section: questions and answers built on Base UI's Accordion. Each question is a button inside a heading, browser search finds text in "
+    },
+    {
+     "item": "@uiception/faq-section-v2",
+     "similarity": 0.791,
+     "type": "block",
+     "kind": "faq",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/faq-section-v2",
+     "description": "Minimal centered FAQ with a simple headline and clean divider accordion."
+    }
+   ],
+   "chosen": "@navui/faqs-section-two",
+   "why": "Accessible shadcn accordion; one next/link import replaced by <a>.",
+   "install": "npx shadcn@latest add @navui/faqs-section-two"
+  },
+  {
+   "section": "cta",
+   "queries": [
+    {
+     "query": "closing call to action section",
+     "mode": "semantic",
+     "total": 305,
+     "type": "block"
+    },
+    {
+     "query": "cta banner with button and gradient",
+     "mode": "semantic",
+     "total": 300,
+     "type": "block"
+    },
+    {
+     "query": "final call to action with install command",
+     "mode": "semantic",
+     "total": 300,
+     "type": "block"
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@uai/call-to-action",
+     "similarity": 0.817,
+     "type": "block",
+     "kind": "contact/cta",
+     "license": "MIT",
+     "stars": 4,
+     "install": "npx shadcn@latest add @uai/call-to-action",
+     "description": "A closing section with one goal, supporting copy, and reassurance.",
+     "view": {
+      "deps": [
+       "class-variance-authority",
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "button",
+       "https://uaiblocks.dev/r/uai-theme.json",
+       "https://uaiblocks.dev/r/trust-panel.json",
+       "https://uaiblocks.dev/r/uai-utils.json"
+      ],
+      "files": 1,
+      "lines": 181,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@hirael/cta-06",
+     "similarity": 0.796,
+     "type": "block",
+     "kind": "contact/cta",
+     "license": "MIT",
+     "stars": 40,
+     "install": "npx shadcn@latest add @hirael/cta-06",
+     "description": "CTA banner on one tokenized gradient surface: an eyebrow label, a serif headline with an italic emphasis, short sub-copy, and a primary acti",
+     "view": {
+      "deps": [
+       "lucide-react"
+      ],
+      "registryDeps": [
+       "button"
+      ],
+      "files": 1,
+      "lines": 80,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@karaui/cta-section",
+     "similarity": 0.794,
+     "type": "block",
+     "kind": "contact/cta",
+     "license": "MIT",
+     "stars": 4,
+     "install": "npx shadcn@latest add @karaui/cta-section",
+     "description": "Closing call-to-action section in a centered layout (large headline, two CTAs and a reassurance checklist inside a card) or a split layout (",
+     "view": {
+      "deps": [
+       "clsx",
+       "lucide-react",
+       "motion",
+       "tailwind-merge"
+      ],
+      "registryDeps": [],
+      "files": 11,
+      "lines": 1330,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@dashral/cta-banner",
+     "similarity": 0.787,
+     "type": "block",
+     "kind": "contact/cta",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @dashral/cta-banner",
+     "description": "The simplest ask: one banner with a gradient hairline around a soft tint, the promise on one side and two actions on the other."
+    },
+    {
+     "item": "@ballmac/cta-1",
+     "similarity": 0.777,
+     "type": "block",
+     "kind": "contact/cta",
+     "license": "MIT",
+     "stars": 12,
+     "install": "npx shadcn@latest add @ballmac/cta-1",
+     "description": "A closing call-to-action panel: large heading, one line of reassurance and two buttons, over a softly lit animated grid."
+    },
+    {
+     "item": "@corsair-ui/cta",
+     "similarity": 0.76,
+     "type": "block",
+     "kind": "contact/cta",
+     "license": "MIT",
+     "stars": 5,
+     "install": "npx shadcn@latest add @corsair-ui/cta",
+     "description": "A closing band with a title, a description and one or two actions."
+    }
+   ],
+   "chosen": "@hirael/cta-06",
+   "why": "Plain gradient panel with one button. The first dogfooding query (\"…with background beams\") found only boxed CMS blocks; the three rephrased queries recorded here found it.",
+   "install": "npx shadcn@latest add @hirael/cta-06"
+  },
+  {
+   "section": "footer",
+   "queries": [
+    {
+     "query": "minimal footer with links",
+     "mode": "semantic",
+     "total": 300,
+     "type": "block"
+    }
+   ],
+   "candidates": [
+    {
+     "item": "@spectrumui/minimal-footer",
+     "similarity": 0.821,
+     "type": "block",
+     "kind": "footer",
+     "license": "Apache-2.0",
+     "stars": 1530,
+     "install": "npx shadcn@latest add @spectrumui/minimal-footer",
+     "description": "A single-line footer with hover-expanding link clusters, status and socials.",
+     "view": {
+      "deps": [],
+      "registryDeps": [
+       "popover"
+      ],
+      "files": 2,
+      "lines": 578,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@uiception/footer-section-v3",
+     "similarity": 0.769,
+     "type": "block",
+     "kind": "footer",
+     "license": "MIT",
+     "stars": 3,
+     "install": "npx shadcn@latest add @uiception/footer-section-v3",
+     "description": "Card-wrapped footer with five link columns and a Privacy / Terms bottom bar. No hover icons on links.",
+     "view": {
+      "deps": [],
+      "registryDeps": [
+       "https://uiception.com/r/block-media.json",
+       "card"
+      ],
+      "files": 3,
+      "lines": 128,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@hirael/footer-03",
+     "similarity": 0.761,
+     "type": "block",
+     "kind": "footer",
+     "license": "MIT",
+     "stars": 40,
+     "install": "npx shadcn@latest add @hirael/footer-03",
+     "description": "Boxed link-column footer: a two-column brand block with wordmark, blurb, and ghost social buttons, two link columns, and a divided copyright",
+     "view": {
+      "deps": [],
+      "registryDeps": [
+       "button"
+      ],
+      "files": 1,
+      "lines": 155,
+      "unusual_deps": []
+     }
+    },
+    {
+     "item": "@payload-components/footer-simple",
+     "similarity": 0.752,
+     "type": "block",
+     "kind": "footer",
+     "license": "MIT",
+     "stars": 49,
+     "install": "npx shadcn@latest add @payload-components/footer-simple",
+     "description": "A compact footer keeping the brand and one wrapped row of links on a line, copyright beneath."
+    },
+    {
+     "item": "@ui-layouts/footer-minimal",
+     "similarity": 0.747,
+     "type": "block",
+     "kind": "footer",
+     "license": "MIT",
+     "stars": 3845,
+     "install": "npx shadcn@latest add @ui-layouts/footer-minimal",
+     "description": ""
+    },
+    {
+     "item": "@velora/footer-wordmark",
+     "similarity": 0.74,
+     "type": "block",
+     "kind": "footer",
+     "license": "MIT",
+     "stars": 61,
+     "install": "npx shadcn@latest add @velora/footer-wordmark",
+     "description": "Minimal footer that ends in an oversized outlined wordmark lighting up in brand colours under the pointer."
+    }
+   ],
+   "chosen": "@hirael/footer-03",
+   "why": "Brand blurb and link columns; socials removed (no public accounts yet).",
+   "install": "npx shadcn@latest add @hirael/footer-03"
+  }
+ ],
+ "theme": {
+  "name": "darkmatter",
+  "source": "/themes/darkmatter (tweakcn, Apache-2.0)",
+  "chosen_by": "Edd, from screenshots (option 2)",
+  "fonts": [
+   "Geist Mono (self-hosted)",
+   "JetBrains Mono (self-hosted)"
+  ]
+ },
+ "integration_checks": {
+  "date": "2026-11-08",
+  "claude_code": "claude mcp add --scope project in a temp dir, then claude mcp list: '✔ Connected' (the real user config untouched)",
+  "codex": "config.toml in a temp CODEX_HOME, codex mcp list: 'enabled'",
+  "fresh_install": "python3 -m venv + pip install mcp numpy pulled mcp 2.3.0, where FastMCP is renamed MCPServer: mcp_server.py failed, now supports both; stdio search_items and --http initialize (200) checked on mcp 1.30.0 and 2.3.0",
+  "system_pip": "pip install into Homebrew python3 refused (externally-managed-environment), so the snippets use a venv",
+  "http": "curl /items?q=airport+autocomplete&osi_only=1 -> semantic, @coss/autocomplete first; /facets answers",
+  "vscode_cursor": "not run: marked unverified on the page"
+ }
+}

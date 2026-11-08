@@ -1,0 +1,443 @@
+registry,item_or_label,kind,layout,width,media,tone,fit,url
+@keyframeui,autopilot-hero,hero,centered-text,contained,screenshots,neutral,2,https://keyframeui.com/blocks/hero-sections/autopilot-hero
+@keyframeui,agent-session-hero,hero,centered-text,contained,screenshots,neutral,2,https://keyframeui.com/blocks/hero-sections/agent-session-hero
+@keyframeui,golden-hour-hero,hero,split-text-media,contained,screenshots,neutral,2,https://keyframeui.com/blocks/hero-sections/golden-hour-hero
+@keyframeui,jot-hero,hero,split-text-media,contained,screenshots,neutral,1,https://keyframeui.com/blocks/hero-sections/jot-hero
+@keyframeui,skyline-hero,hero,centered-text,contained,illustration,loud,2,https://keyframeui.com/blocks/hero-sections/skyline-hero
+@keyframeui,throughline-hero,hero,big-type-editorial,contained,abstract-graphic,loud,1,https://keyframeui.com/blocks/hero-sections/throughline-hero
+@keyframeui,black-box-hero,hero,split-text-media,contained,abstract-graphic,neutral,1,https://keyframeui.com/blocks/hero-sections/black-box-hero
+@keyframeui,standings-hero,hero,split-text-media,contained,screenshots,loud,1,https://keyframeui.com/blocks/hero-sections/standings-hero
+@keyframeui,reroute-hero,hero,split-text-media,contained,abstract-graphic,neutral,1,https://keyframeui.com/blocks/hero-sections/reroute-hero
+@keyframeui,arc-scroll-case-studies-demo,projects,horizontal-strip,contained,screenshots,loud,2,https://keyframeui.com/components/arc-scroll
+@keyframeui,arc-scroll-timeline-demo,experience,horizontal-strip,contained,none,neutral,2,https://keyframeui.com/components/arc-scroll
+@reactframe,scroll-zoom-media-reveal,hero,full-bleed-image,full-bleed,person-photo,loud,1,https://reactframe.com/collections/react-hero-sections
+@reactframe,hover-compare,hero,full-bleed-image,full-bleed,person-photo,loud,1,https://reactframe.com/collections/react-hero-sections
+@reactframe,about-founder-section,about,split-text-media,contained,none,neutral,3,https://reactframe.com/components/about-founder-section
+@reactframe,video-scroll-story,hero,full-bleed-video,full-bleed,person-photo,loud,1,https://reactframe.com/collections/react-hero-sections
+@reactframe,marquee-hero-section,hero,marquee-or-ticker,full-bleed,person-photo,loud,1,https://reactframe.com/components/marquee-hero-section
+@reactframe,hero-scroll-gallery,hero,collage-or-gallery,full-bleed,person-photo,loud,1,https://reactframe.com/components/hero-scroll-gallery
+@reactframe,coverflow-services-hero,hero,split-text-media,contained,person-photo,loud,1,https://reactframe.com/components/coverflow-services-hero
+@reactframe,simple-hero-section,hero,centered-text,contained,none,neutral,2,https://reactframe.com/collections/react-hero-sections
+@reactframe,split-screen-hero,hero,full-bleed-image,full-bleed,illustration,loud,1,https://reactframe.com/collections/react-hero-sections
+@reactframe,video-text-mask-hero,hero,big-type-editorial,full-bleed,abstract-graphic,loud,1,https://reactframe.com/collections/react-hero-sections
+@reactframe,spotlight-cursor-hero,hero,centered-text,full-bleed,none,neutral,2,https://reactframe.com/collections/react-hero-sections
+@reactframe,typewriter-search-hero,hero,centered-text,contained,none,quiet,2,https://reactframe.com/collections/react-hero-sections
+@reactframe,bento-hero,hero,bento-hero,full-bleed,person-photo,loud,1,https://reactframe.com/components/bento-hero
+@reactframe,team-list,other,list-rows,contained,none,loud,2,https://reactframe.com/collections/react-team-sections
+@reactframe,profile-flip-card,profile,profile-card,narrow,person-photo,neutral,2,https://reactframe.com/collections/react-team-sections
+@reactframe,meet-the-team,other,card-grid,contained,person-photo,neutral,2,https://reactframe.com/collections/react-team-sections
+@uiable,person-portfolio-template hero,hero,split-text-portrait,contained,person-photo,loud,1,https://uiable.com/templates/portfolio/person-portfolio-shadcn-nextjs-template
+@uiable,person-portfolio-template services bento,other,bento-grid,contained,abstract-graphic,loud,1,https://uiable.com/templates/portfolio/person-portfolio-shadcn-nextjs-template
+@uiable,person-portfolio-template disciplines/experience,experience,featured-case-study,contained,screenshots,loud,1,https://uiable.com/templates/portfolio/person-portfolio-shadcn-nextjs-template
+@spaceui,timeline (default),experience,timeline-vertical,narrow,none,quiet,3,https://www.spaceui.one/components/timeline
+@spaceui,timeline left-aligned dates,experience,timeline-vertical,narrow,none,quiet,3,https://www.spaceui.one/components/timeline
+@spaceui,timeline alternating,experience,timeline-vertical,narrow,none,quiet,2,https://www.spaceui.one/components/timeline
+@spaceui,timeline horizontal roadmap,experience,horizontal-strip,narrow,none,quiet,2,https://www.spaceui.one/components/timeline
+@ssych,project-index,projects,list-rows,contained,screenshots,quiet,4,https://ssych.com/library/project-index
+@react-bits,ProfileCard,profile,profile-card,narrow,person-photo,loud,1,https://reactbits.dev/components/profile-card
+@motiq,agent-operations-hero,hero,split-text-media,contained,screenshots,neutral,2,https://motiq.dev/components/agent-operations-hero
+@motiq,deployment-control-hero,hero,split-text-media,contained,screenshots,neutral,2,https://motiq.dev/components/deployment-control-hero
+@motiq,live-data-command-hero,hero,split-text-media,contained,screenshots,neutral,2,https://motiq.dev/components/live-data-command-hero
+@motiq,collaborative-launch-hero,hero,split-text-media,contained,screenshots,neutral,2,https://motiq.dev/components/collaborative-launch-hero
+@motiq,project-timeline,experience,timeline-rows-table,contained,none,neutral,2,https://motiq.dev/components/project-timeline
+@d2,diagram-grid,other,bento-grid,contained,abstract-graphic,neutral,2,https://ui.d2studio.dev/blocks
+@d2,brand-showcase,projects,logo-wall,full-bleed,none,quiet,2,https://ui.d2studio.dev/blocks/brand-showcase
+@d2,logo-rack,projects,logo-wall,full-bleed,none,quiet,2,https://ui.d2studio.dev/blocks
+@d2,container-hero (hero-container),hero,shader-or-3d-background,contained,illustration,loud,1,https://ui.d2studio.dev/blocks/hero-container
+@cult-ui,hero-dithering,hero,split-text-media,contained,abstract-graphic,loud,2,https://www.cult-ui.com/docs/components/hero-dithering
+@cult-ui,hero-color-panels,hero,split-text-media,contained,abstract-graphic,loud,2,https://www.cult-ui.com/docs/components/hero-color-panels
+@velora,hero-aurora,hero,centered-text,full-bleed,abstract-graphic,loud,1,https://velora.colorlib.com/blocks/hero-sections
+@velora,hero-globe,hero,split-text-media,contained,abstract-graphic,loud,1,https://velora.colorlib.com/blocks/hero-sections
+@velora,hero-screenshot,hero,centered-text,contained,screenshots,neutral,2,https://velora.colorlib.com/blocks/hero-sections
+@velora,hero-split-phone,hero,split-text-media,contained,screenshots,loud,1,https://velora.colorlib.com/blocks/hero-sections
+@velora,hero-waves,hero,big-type-editorial,full-bleed,abstract-graphic,loud,1,https://velora.colorlib.com/blocks/hero-sections
+@velora,timeline,experience,timeline-vertical,contained,screenshots,neutral,3,https://velora.colorlib.com/components/timeline
+@velora,timeline product changelog example,experience,timeline-vertical,contained,screenshots,neutral,2,https://velora.colorlib.com/components/timeline
+@cortexcn,hero-cover-01 (Cover Photo),hero,full-bleed-image,full-bleed,illustration,neutral,2,https://ui.cortexcn.dev/blocks/hero/hero-cover-01
+@cortexcn,hero-dashboard-01 (Dashboard Preview),hero,centered-text,contained,screenshots,neutral,2,https://ui.cortexcn.dev/blocks/hero/hero-dashboard-01
+@cortexcn,hero-studio-01 (Studio),hero,full-bleed-image,full-bleed,illustration,neutral,2,https://ui.cortexcn.dev/blocks/hero/hero-studio-01
+@cortexcn,hero-synapse-01 (Synapse),hero,split-text-media,contained,illustration,neutral,2,https://ui.cortexcn.dev/blocks/hero/hero-synapse-01
+@cortexcn,portfolio template hero,hero,big-type-editorial,contained,illustration,loud,1,https://ui.cortexcn.dev/templates/portfolio
+@cortexcn,portfolio template about,about,split-text-media,contained,none,quiet,3,https://ui.cortexcn.dev/templates/portfolio
+@cortexcn,portfolio template services,other,list-rows,contained,none,quiet,3,https://ui.cortexcn.dev/templates/portfolio
+@cortexcn,portfolio template projects,projects,card-grid,contained,screenshots,loud,2,https://ui.cortexcn.dev/templates/portfolio
+@cortexcn,portfolio template testimonials,testimonials,card-grid,contained,avatar,neutral,2,https://ui.cortexcn.dev/templates/portfolio
+@cortexcn,work-experience,experience,accordion-roles,narrow,none,quiet,4,https://ui.cortexcn.dev/docs/cortex/work-experience
+@payload-components,hero-basic,hero,text-only-left,contained,none,quiet,3,https://www.payload-components.xyz/docs/components/hero-basic
+@payload-components,hero-video,hero,full-bleed-video,contained,none,neutral,2,https://www.payload-components.xyz/docs/components/hero-video
+@payload-components,hero-aurora,hero,centered-text,contained,screenshots,loud,1,https://www.payload-components.xyz/docs/components/hero-aurora
+@payload-components,hero-split,hero,split-text-media,contained,none,neutral,2,https://www.payload-components.xyz/docs/components/hero-split
+@payload-components,hero-product-tilt,hero,centered-text,contained,screenshots,neutral,2,https://www.payload-components.xyz/docs/components/hero-product-tilt
+@payload-components,hero-kinetic,hero,big-type-editorial,contained,none,quiet,4,https://www.payload-components.xyz/docs/components/hero-kinetic
+@payload-components,portfolio-solo home hero (hero-kinetic),hero,text-only-left,contained,none,quiet,4,https://www.payload-components.xyz/templates/portfolio-solo
+@bjork-ui,project-index,projects,list-rows,contained,screenshots,quiet,4,https://ui.isaiahbjork.com/galleries/project-index
+@bjork-ui,project-cards,projects,list-rows,narrow,avatar,neutral,1,https://ui.isaiahbjork.com/cards/project-cards
+@atroui,ar-portfolio,projects,featured-case-study,contained,illustration,loud,1,https://www.atroui.com/docs/components/ar-ar-portfolio
+@atroui,home-hero,hero,centered-text,full-bleed,avatar,neutral,2,https://www.atroui.com/docs/components/home-hero
+@hairline,changelog-timeline,experience,timeline-vertical,contained,none,quiet,4,https://hairlineui.com/ui/changelog-timeline
+@hairline,switchyard template hero,hero,split-text-media,contained,screenshots,neutral,2,https://hairlineui.com/templates/developer-tools
+@hairline,halftone template hero,hero,split-text-media,contained,screenshots,neutral,2,https://hairlineui.com/templates/developer-tools
+@hairline,bulkhead template hero,hero,split-text-media,contained,screenshots,neutral,2,https://hairlineui.com/templates/developer-tools
+@crucible,portfolio template hero,hero,text-only-left,contained,abstract-graphic,neutral,3,https://crucibleui.com/components/templates/portfolio
+@crucible,forge-hero,hero,shader-or-3d-background,contained,abstract-graphic,loud,1,https://crucibleui.com/components/sections/forge-hero
+@quill,site homepage hero (not confirmed = @quill/hero),hero,split-text-media,full-bleed,illustration,quiet,3,https://www.quilldesignsystem.com/
+@smoothui,header-1,hero,centered-text,contained,none,neutral,2,https://smoothui.dev/docs/blocks/hero
+@smoothui,header-2,hero,centered-text,contained,screenshots,loud,1,https://smoothui.dev/docs/blocks/hero
+@smoothui,header-3,hero,split-text-media,contained,abstract-graphic,loud,1,https://smoothui.dev/docs/blocks/hero
+@smoothui,header-4,hero,centered-text,full-bleed,abstract-graphic,neutral,2,https://smoothui.dev/docs/blocks/hero
+@smoothui,header-5,hero,centered-text,full-bleed,abstract-graphic,loud,1,https://smoothui.dev/docs/blocks/hero
+@smoothui,header-6,hero,centered-text,contained,none,quiet,3,https://smoothui.dev/docs/blocks/hero
+@corsair-ui,hero (default centered),hero,centered-text,contained,none,quiet,2,https://corsairui.vercel.app/docs/hero
+@corsair-ui,hero (with media align=start),hero,split-text-media,contained,screenshots,quiet,3,https://corsairui.vercel.app/docs/hero
+@corsair-ui,timeline,experience,timeline-vertical,narrow,none,quiet,3,https://corsairui.vercel.app/docs/timeline
+@neobrutal-ui,portfolio-template hero,hero,text-only-left,narrow,none,quiet,3,https://neobrutal-ui.andongmin.com/templates/portfolio
+@neobrutal-ui,portfolio-template practice columns,about,fact-band,narrow,none,quiet,3,https://neobrutal-ui.andongmin.com/templates/portfolio
+@neobrutal-ui,portfolio-template selected work,projects,accordion-roles,narrow,none,quiet,3,https://neobrutal-ui.andongmin.com/templates/portfolio
+@1st-pouf,profile,profile,profile-card,narrow,avatar,loud,1,https://1st-pouf.worksonmy.dev/blocks/profile/
+@bash,Understated (portfolio system) project card,projects,featured-case-study,contained,none,quiet,3,https://bash-ui-registry.vercel.app/systems/portfolio
+@23rd,shader-sky,other,shader-or-3d-background,contained,abstract-graphic,loud,1,https://www.23rd.dev/docs/components/shader-sky
+@23rd,shader-anime-fire,other,shader-or-3d-background,contained,abstract-graphic,loud,1,https://www.23rd.dev/docs/components/shader-anime-fire
+@registrydirectory,shadcn-ui-blocks/marketing-hero-sections-with-code-preview,hero,terminal-or-code,contained,none,quiet,3,https://www.shadcn-ui-blocks.com/blocks/marketing/hero-sections/with-code-preview
+@registrydirectory,shadcn-ui-blocks/portfolio-portfolio-case-studies-grid-case-study-previews,projects,card-grid,contained,screenshots,neutral,2,https://www.shadcn-ui-blocks.com/blocks/portfolio/portfolio-case-studies/grid-case-study-previews
+@registrydirectory,shadcn-ui-blocks/portfolio-portfolio-blog-writing-and-previews-minimal-list-dates,projects,list-rows,contained,none,quiet,4,https://www.shadcn-ui-blocks.com/blocks/portfolio/portfolio-blog-writing-and-previews/minimal-list-dates
+@registrydirectory,shadcnblocks/about3,about,collage-or-gallery,contained,screenshots,neutral,2,https://www.shadcnblocks.com/block/about3
+@registrydirectory,shadcnblocks/careers4,other,list-rows,contained,none,quiet,3,https://www.shadcnblocks.com/block/careers4
+@ns-ui,hero-ascii-wordmark,hero,terminal-or-code,contained,abstract-graphic,neutral,2,https://design.helpmarq.com/components/hero-ascii-wordmark
+@ns-ui,hero-chart-recorder,hero,text-only-left,contained,abstract-graphic,quiet,2,https://design.helpmarq.com/components/hero-chart-recorder
+@ns-ui,hero-cloth-type,hero,big-type-editorial,contained,none,neutral,2,https://design.helpmarq.com/components/hero-cloth-type
+@lema-ds,ds-about-manifesto-hero,about,centered-text,contained,none,quiet,3,https://ds.lema.ufpb.br/iframe.html?id=about-aboutmanifestohero--default&viewMode=story
+@lema-ds,ds-about-milestones,experience,timeline-vertical,contained,none,quiet,4,https://ds.lema.ufpb.br/iframe.html?id=about-aboutmilestones--default&viewMode=story
+@lema-ds,ds-about-split-story,about,split-text-media,contained,person-photo,neutral,2,https://ds.lema.ufpb.br/iframe.html?id=about-aboutsplitstory--default&viewMode=story
+@lema-ds,ds-about-section,about,centered-text,contained,avatar,neutral,2,https://ds.lema.ufpb.br/iframe.html?id=about-aboutsection--default&viewMode=story
+@uiable,block-hero (hero-1),hero,full-bleed-image,full-bleed,screenshots,loud,1,https://uiable.com/preview/hero/hero-1
+@uiable,hero-11,hero,centered-text,contained,screenshots,loud,1,https://uiable.com/preview/hero/hero-11
+@uiable,portfolio-2,projects,featured-case-study,contained,screenshots,loud,1,https://uiable.com/preview/portfolio/portfolio-2
+@uiable,portfolio-8,projects,horizontal-strip,contained,person-photo,loud,1,https://uiable.com/preview/portfolio/portfolio-8
+@uiable,timelines-1 (hex process cycle),other,card-grid,contained,none,quiet,1,https://uiable.com/preview/timelines/timelines-1
+@nusaiba,hero-15 (Hero Sera),hero,text-only-left,contained,none,quiet,3,https://nusaiba.dev/blocks/hero/hero-15
+@nusaiba,hero-7 (Hero Editorial Split),hero,split-text-media,contained,abstract-graphic,neutral,3,https://nusaiba.dev/blocks/hero/hero-7
+@nusaiba,hero-9 (Hero Architecture Grid),hero,split-text-media,contained,abstract-graphic,quiet,4,https://nusaiba.dev/blocks/hero/hero-9
+@nusaiba,hero-4 (Hero Word Reveal),hero,big-type-editorial,contained,none,quiet,4,https://nusaiba.dev/blocks/hero/hero-4
+@nusaiba,hero-1 (Hero Bento Split),hero,bento-hero,contained,abstract-graphic,quiet,3,https://nusaiba.dev/blocks/hero/hero-1
+@esuiss,hero-tiles,hero,collage-or-gallery,full-bleed,screenshots,loud,1,https://suiss.app/ui/preview/hero-tiles
+@esuiss,hero-cinematic,hero,centered-text,full-bleed,screenshots,loud,1,https://suiss.app/ui/preview/hero-cinematic
+@esuiss,hero-product,hero,centered-text,contained,screenshots,neutral,1,https://suiss.app/ui/preview/hero-product
+@heyompatil,experience-01,experience,accordion-roles,contained,avatar,quiet,4,https://www.heyompatil.me/blocks/marketing/experience-01
+@componentry,hero-geometric,hero,shader-or-3d-background,contained,abstract-graphic,loud,1,https://componentry.dev/docs/components/hero-geometric
+@heyompatil,hero-01,hero,text-only-left,contained,illustration,quiet,4,https://www.heyompatil.me/blocks/marketing/hero-01
+@hirael,hero-01,hero,centered-text,full-bleed,abstract-graphic,loud,2,https://hirael.com/blocks/hero/hero-01
+@hirael,hero-02,hero,centered-text,full-bleed,abstract-graphic,loud,2,https://hirael.com/blocks/hero/hero-02
+@hirael,hero-03,hero,centered-text,full-bleed,abstract-graphic,neutral,2,https://hirael.com/blocks/hero/hero-03
+@hirael,hero-04,hero,full-bleed-image,full-bleed,abstract-graphic,loud,2,https://hirael.com/blocks/hero/hero-04
+@hirael,hero-05,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://hirael.com/blocks/hero/hero-05
+@hirael,hero-06,hero,centered-text,full-bleed,abstract-graphic,neutral,3,https://hirael.com/blocks/hero/hero-06
+@hirael,hero-07,hero,centered-text,full-bleed,abstract-graphic,neutral,2,https://hirael.com/blocks/hero/hero-07
+@ui-layouts,hero-ai-infrastructure,hero,centered-text,full-bleed,none,loud,2,https://ui-layouts.com/blocks/hero-section
+@ui-layouts,hero-digital-success,hero,full-bleed-image,full-bleed,abstract-graphic,loud,1,https://ui-layouts.com/blocks/hero-section
+@ui-layouts,hero-ai-value-proposition,hero,centered-text,contained,avatar,neutral,3,https://ui-layouts.com/blocks/hero-section
+@ui-layouts,hero-social-app,hero,split-text-media,contained,screenshots,neutral,2,https://ui-layouts.com/blocks/hero-section
+@ui-layouts,hero-ai-ecommerce,hero,centered-text,contained,screenshots,loud,2,https://ui-layouts.com/blocks/hero-section
+@ui-layouts,hero-financial,hero,big-type-editorial,full-bleed,abstract-graphic,loud,2,https://ui-layouts.com/blocks/hero-section
+@ui-layouts,impact-experience,experience,timeline-rows-table,contained,none,quiet,4,https://ui-layouts.com/blocks/experience-section
+@ui-layouts,portfolio-experience,experience,timeline-rows-table,full-bleed,none,neutral,4,https://ui-layouts.com/blocks/experience-section
+@ui-layouts,creative-experience,experience,list-rows,full-bleed,none,loud,3,https://ui-layouts.com/blocks/experience-section
+@ui-layouts,work-experience,experience,timeline-vertical,narrow,avatar,neutral,3,https://ui-layouts.com/blocks/experience-section
+@ui-layouts,customer-experience,experience,list-rows,full-bleed,none,loud,1,https://ui-layouts.com/blocks/experience-section
+@ui-layouts,about-ecommerse,about,centered-text,contained,screenshots,neutral,2,https://ui-layouts.com/blocks/about-section
+@ui-layouts,about-creative,about,fact-band,contained,screenshots,quiet,3,https://ui-layouts.com/blocks/about-section
+@ui-layouts,about-me,about,split-text-portrait,contained,person-photo,neutral,3,https://ui-layouts.com/blocks/about-section
+@ui-layouts,about-sass,about,text-only-left,contained,abstract-graphic,neutral,3,https://ui-layouts.com/blocks/about-section
+@ui-layouts,about-agency,about,split-text-media,contained,screenshots,neutral,3,https://ui-layouts.com/blocks/about-section
+@ui-layouts,about-architecture,about,big-type-editorial,contained,screenshots,neutral,3,https://ui-layouts.com/blocks/about-section
+@ui-layouts,about-mission,about,centered-text,contained,none,quiet,2,https://ui-layouts.com/blocks/about-section
+@cnippet-blocks,hero-1,hero,full-bleed-image,contained,screenshots,loud,1,https://blocks.cnippet.dev/sections/hero
+@cnippet-blocks,hero-2,hero,split-text-media,full-bleed,screenshots,neutral,2,https://blocks.cnippet.dev/sections/hero
+@cnippet-blocks,hero-3,hero,split-text-media,contained,screenshots,neutral,2,https://blocks.cnippet.dev/sections/hero
+@cnippet-blocks,hero-9,hero,full-bleed-image,contained,screenshots,loud,1,https://blocks.cnippet.dev/sections/hero
+@cnippet-blocks,career-1,other,list-rows,contained,screenshots,neutral,1,https://blocks.cnippet.dev/sections/career
+@cnippet-blocks,career-3,other,list-rows,narrow,none,neutral,2,https://blocks.cnippet.dev/sections/career
+@cnippet-blocks,career-5,other,list-rows,contained,none,quiet,3,https://blocks.cnippet.dev/sections/career
+@cnippet-blocks,gallery-5,projects,featured-case-study,narrow,screenshots,quiet,1,https://blocks.cnippet.dev/sections/gallery
+@cnippet-blocks,gallery-6,projects,horizontal-strip,contained,screenshots,quiet,3,https://blocks.cnippet.dev/sections/gallery
+@ballmac,about-1,about,text-only-left,contained,abstract-graphic,quiet,4,https://ui.ballmac.com/blocks/about-1
+@ballmac,careers-1,other,list-rows,contained,none,quiet,2,https://ui.ballmac.com/blocks/careers-1
+@ballmac,casestudy-1,projects,featured-case-study,contained,abstract-graphic,neutral,3,https://ui.ballmac.com/blocks/casestudy-1
+@ballmac,hero-1,hero,split-text-media,contained,screenshots,quiet,3,https://ui.ballmac.com/blocks/hero-1
+@ballmac,hero-4,hero,split-text-media,contained,abstract-graphic,quiet,3,https://ui.ballmac.com/blocks/hero-4
+@ballmac,profile-1,profile,profile-card,contained,avatar,neutral,2,https://ui.ballmac.com/blocks/profile-1
+@ballmac,portfolio-1,other,stats-band,contained,none,neutral,1,https://ui.ballmac.com/blocks/portfolio-1
+@ballmac,template-portfolio (home hero),hero,big-type-editorial,full-bleed,abstract-graphic,loud,3,https://ui.ballmac.com/templates/template-portfolio
+@ballmac,showcase-1,projects,featured-case-study,contained,screenshots,loud,1,https://ui.ballmac.com/blocks/showcase-1
+@watermelon,hero-31,hero,full-bleed-image,full-bleed,abstract-graphic,loud,1,https://ui.watermelon.sh/blocks/hero
+@watermelon,hero-1,hero,text-only-left,full-bleed,abstract-graphic,loud,2,https://ui.watermelon.sh/block/hero-1
+@watermelon,career-1,other,list-rows,contained,none,neutral,2,https://ui.watermelon.sh/block/career-1
+@watermelon,hero-5,hero,centered-text,full-bleed,abstract-graphic,loud,1,https://ui.watermelon.sh/block/hero-5
+@watermelon,hero-12,hero,full-bleed-image,full-bleed,abstract-graphic,loud,2,https://ui.watermelon.sh/block/hero-12
+@watermelon,hero-20,hero,full-bleed-image,full-bleed,abstract-graphic,loud,1,https://ui.watermelon.sh/block/hero-20
+@watermelon,career-3,other,card-grid,contained,none,neutral,1,https://ui.watermelon.sh/block/career-3
+@watermelon,bento-01,projects,bento-grid,contained,illustration,neutral,2,https://ui.watermelon.sh/block/bento-01
+@hirael,portfolio (template hero),hero,big-type-editorial,full-bleed,none,neutral,2,https://hirael.com/templates/portfolio
+@hirael,team-01,other,card-grid,contained,avatar,quiet,2,https://hirael.com/blocks/team/team-01
+@hirael,team-02,profile,fact-band,contained,none,neutral,2,https://hirael.com/blocks/team/team-02
+@hirael,team-03,other,list-rows,contained,avatar,quiet,2,https://hirael.com/blocks/team/team-03
+@hirael,timeline,experience,timeline-vertical,narrow,none,quiet,3,https://hirael.com/components/data/timeline
+@tealmac,portfolio (template hero; same design as @ballmac template-portfolio),hero,big-type-editorial,full-bleed,abstract-graphic,loud,3,https://ui.tealmac.com/templates/portfolio
+@tealmac,hero-terminal-editorial,hero,terminal-or-code,contained,none,quiet,4,https://ui.tealmac.com/blocks/hero-terminal-editorial
+@tealmac,hero-developer-install,hero,terminal-or-code,contained,none,neutral,3,https://ui.tealmac.com/blocks/hero-developer-install
+@tealmac,team-leadership-bios,other,card-grid,narrow,avatar,quiet,2,https://ui.tealmac.com/blocks/team-leadership-bios
+@tealmac,portfolio-case-parallax,projects,featured-case-study,narrow,screenshots,quiet,3,https://ui.tealmac.com/docs/patterns/portfolio-case-parallax
+@tealmac,timeline-years-snap,experience,horizontal-strip,narrow,none,quiet,3,https://ui.tealmac.com/docs/patterns/timeline-years-snap
+@tealmac,team-portrait-bios,other,card-grid,contained,person-photo,quiet,2,https://ui.tealmac.com/blocks/team-portrait-bios
+@tealmac,hero 3D type and liquid blob,hero,shader-or-3d-background,contained,abstract-graphic,loud,1,https://ui.tealmac.com/blocks
+@tealmac,hero with floating 3D shapes,hero,shader-or-3d-background,contained,abstract-graphic,loud,1,https://ui.tealmac.com/blocks
+@tealmac,case studies on a 3D ring,projects,horizontal-strip,contained,screenshots,loud,1,https://ui.tealmac.com/blocks
+@paceui,hero-4,hero,split-text-media,contained,screenshots,neutral,2,https://paceui.com/blocks/marketing/hero
+@paceui,hero-5,hero,centered-text,contained,abstract-graphic,neutral,2,https://paceui.com/blocks/marketing/hero
+@paceui,hero-3,hero,centered-text,contained,none,neutral,2,https://paceui.com/blocks/marketing/hero
+@paceui,hero-2,hero,centered-text,contained,avatar,neutral,2,https://paceui.com/blocks/marketing/hero
+@paceui,hero-1,hero,split-text-media,contained,none,neutral,1,https://paceui.com/blocks/marketing/hero
+@eased,portfolio (index rail),projects,horizontal-strip,full-bleed,abstract-graphic,quiet,3,https://eased.dev/templates/portfolio
+@paceui,personal-portfolio-template (hero),hero,fact-band,narrow,none,quiet,4,https://paceui.com/preview/templates/personal-portfolio
+@paceui,personal-portfolio-template (selected work),projects,card-grid,contained,screenshots,quiet,3,https://paceui.com/preview/templates/personal-portfolio
+@paceui,personal-portfolio-template (about & workbench),about,text-only-left,contained,none,quiet,4,https://paceui.com/preview/templates/personal-portfolio
+@karaui,hero-section,hero,centered-text,contained,screenshots,quiet,3,https://karaui.kamisama-v0.my.id/components/blocks/hero-section
+@karaui,project-folder,projects,card-grid,narrow,illustration,neutral,1,https://karaui.kamisama-v0.my.id/components/blocks/project-folder
+@ilinxa,page-hero,hero,centered-text,contained,none,loud,1,https://ui.ilinxa.com/components/page-hero
+@ilinxa,project-card,projects,card-grid,contained,screenshots,neutral,2,https://ui.ilinxa.com/components/project-card
+@facade,hero-split,hero,split-text-media,contained,screenshots,quiet,3,https://facadeui.dev/components/hero-split
+@facade,hero-centered,hero,centered-text,contained,none,quiet,3,https://facadeui.dev/components/hero-centered
+@facade,hero-with-media,hero,full-bleed-image,full-bleed,abstract-graphic,neutral,2,https://facadeui.dev/components/hero-with-media
+@caliper,profile-page,profile,profile-card,contained,avatar,quiet,3,https://caliperui.site/docs/components/profile-page
+@caliper,about-template,about,text-only-left,contained,none,quiet,4,https://caliperui.site/docs/components/about-template
+@caliper,hero-section,hero,centered-text,contained,screenshots,quiet,3,https://caliperui.site/docs/components/hero-section
+@cnippet,hero-parallax,projects,collage-or-gallery,full-bleed,screenshots,loud,2,https://ui.cnippet.dev/motion/scroll-animations/hero-parallax
+@cnippet,timeline (v-timeline),experience,timeline-vertical,narrow,avatar,quiet,3,https://ui.cnippet.dev/ui/data/timeline
+@astryx,template-centered-hero,hero,centered-text,contained,screenshots,quiet,3,https://astryx.atmeta.com/templates/centered-hero
+@astryx,classic-gallery,projects,card-grid,contained,screenshots,neutral,2,https://astryx.atmeta.com/templates/classic-gallery
+@mischief,scene-hero,hero,shader-or-3d-background,narrow,abstract-graphic,loud,1,https://ui.tinkererslabs.com/docs/components/scene-hero/
+@kokonutui,rhythm-hero,hero,big-type-editorial,contained,abstract-graphic,quiet,3,https://kokonutui.com/docs/backgrounds/rhythm-hero
+@kokonutui,shape-hero,hero,centered-text,contained,abstract-graphic,loud,2,https://kokonutui.com/docs/backgrounds/shape-hero
+@glint-ui,lamp-hero,hero,centered-text,contained,abstract-graphic,loud,1,https://glint-ui-seven.vercel.app/components/lamp-hero
+@fancy-ui,timeline,experience,timeline-vertical,contained,none,quiet,4,https://fancy-ui.rama.app/docs/components/timeline
+@dimaac,project-hover-section,projects,list-rows,contained,screenshots,quiet,4,https://ui.dimaac.com/components/project-hover-section
+@facadeui,hero-agency,hero,centered-text,contained,none,quiet,4,https://facadeui.com/components/hero-agency
+@siteplane,timeline,experience,timeline-vertical,narrow,none,quiet,2,https://ui.siteplane.io/docs/components/timeline/
+@weinc,landing-page-hero cast-resin app window,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://we.inc/components/hero-sections
+@weinc,ray-marched serum dropper hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://we.inc/components/hero-sections
+@weinc,ray-marched plaster architecture model hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://we.inc/components/hero-sections
+@weinc,ray-marched pour-over coffee hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,neutral,1,https://we.inc/components/hero-sections
+@weinc,ray-marched solitaire ring hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,neutral,1,https://we.inc/components/hero-sections
+@weinc,ray-marched perfume bottle hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://we.inc/components/hero-sections
+@weinc,app-landing-hero-with-phone-mockup,hero,split-text-media,full-bleed,screenshots,loud,2,https://we.inc/components/hero-sections
+@weinc,bakery shadow-lettering hero,hero,big-type-editorial,full-bleed,abstract-graphic,neutral,1,https://we.inc/components/hero-sections
+@weinc,big-headline-hero-with-stats-row,hero,big-type-editorial,full-bleed,screenshots,loud,2,https://we.inc/components/hero-sections
+@weinc,mountain-lodge photo hero,hero,full-bleed-image,full-bleed,screenshots,neutral,1,https://we.inc/components/hero-sections
+@weinc,neo-brutalist sticker hero,hero,big-type-editorial,full-bleed,illustration,loud,1,https://we.inc/components/hero-sections
+@weinc,olive-oil bottle hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://we.inc/components/hero-sections
+@weinc,portrait-studio giant headline hero,hero,big-type-editorial,full-bleed,person-photo,loud,2,https://we.inc/components/hero-sections
+@weinc,ray-marched paper mountain diorama hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,neutral,1,https://we.inc/components/hero-sections
+@weinc,ray-marched vinyl balloon letters hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://we.inc/components/hero-sections
+@8starlabs-ui,timeline (horizontal),experience,horizontal-strip,contained,none,neutral,2,https://ui.8starlabs.com/docs/components/timeline
+@8starlabs-ui,timeline (vertical alternating),experience,timeline-vertical,narrow,none,neutral,3,https://ui.8starlabs.com/docs/components/timeline
+@shaderscn,god-rays-hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://www.shaderscn.com/shaders/god-rays-hero
+@shaderscn,dithering-hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://www.shaderscn.com/shaders/dithering-hero
+@shaderscn,dithering-globe-hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://www.shaderscn.com/shaders/dithering-globe-hero
+@shaderscn,dithering-globe-arcs-hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://www.shaderscn.com/shaders/dithering-globe-arcs-hero
+@cuelark,timeline,experience,timeline-vertical,narrow,none,quiet,3,https://ui.cuelark.com/components/timeline
+@dimaac,template quiet (hero/intro),hero,text-only-left,narrow,none,quiet,3,https://ui.dimaac.com/templates/minimal
+@dimaac,template quiet (projects),projects,list-rows,narrow,none,quiet,3,https://ui.dimaac.com/templates/minimal
+@dimaac,template maya (hero),hero,big-type-editorial,contained,none,quiet,4,https://ui.dimaac.com/templates/maya
+@dimaac,template terminal (hero),hero,terminal-or-code,contained,none,neutral,2,https://ui.dimaac.com/templates/backend
+@dimaac,template aurora (intro),hero,text-only-left,narrow,none,quiet,3,https://ui.dimaac.com/templates/aurora
+@dimaac,template aurora (projects),projects,list-rows,narrow,none,quiet,3,https://ui.dimaac.com/templates/aurora
+@dimaac,template form-and-co (hero),hero,big-type-editorial,full-bleed,person-photo,loud,2,https://ui.dimaac.com/templates/form-and-co
+@stealth,profile-card,profile,profile-card,narrow,avatar,neutral,2,https://www.stealth.pm/ui/profile-card
+@stealth,timeline,experience,timeline-vertical,narrow,avatar,neutral,2,https://www.stealth.pm/ui/timeline
+@hirael,careers-01,other,list-rows,contained,none,quiet,2,https://hirael.com/blocks/careers/careers-01
+@miseui,landing-hero (split),hero,big-type-editorial,contained,screenshots,quiet,4,https://miseui.junsu4621.workers.dev/components/landing-hero
+@miseui,timeline (alternate two-sided),experience,timeline-vertical,contained,none,quiet,4,https://miseui.junsu4621.workers.dev/components/timeline
+@miseui,timeline (horizontal),experience,horizontal-strip,contained,none,quiet,3,https://miseui.junsu4621.workers.dev/components/timeline
+@neumorphism-ui,template-portfolio (hero),hero,text-only-left,narrow,none,quiet,3,https://neumorphism-ui.andongmin.com/en/templates/portfolio
+@neumorphism-ui,template-portfolio (selected work),projects,accordion-roles,narrow,none,quiet,3,https://neumorphism-ui.andongmin.com/en/templates/portfolio
+@einui,glass-timeline,experience,timeline-vertical,narrow,none,loud,1,https://ui.eindev.ir/docs/components/glass-timeline
+@corr,timeline (scheduler grid),other,timeline-rows-table,contained,none,neutral,1,https://ui.corr.sh/components/timeline
+@7ovr,Milestone Rail With Status (timeline-1),experience,timeline-vertical,narrow,none,quiet,4,https://7ovr.com/blocks/timeline
+@7ovr,Alternating Spine Story (timeline-2),experience,timeline-vertical,contained,none,quiet,3,https://7ovr.com/blocks/timeline
+@7ovr,Activity Feed By Day (timeline-3),other,list-rows,narrow,avatar,quiet,1,https://7ovr.com/blocks/timeline
+@7ovr,Horizontal Journey Rail (timeline-4),experience,horizontal-strip,contained,none,quiet,4,https://7ovr.com/blocks/timeline
+@7ovr,Year Selector With Photo (timeline-5),experience,accordion-roles,contained,illustration,neutral,3,https://7ovr.com/blocks/timeline
+@minidev,hero-split-showcase,hero,split-text-media,contained,screenshots,neutral,2,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-editorial-split,hero,split-text-media,contained,screenshots,neutral,2,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-kinetic-type,hero,text-only-left,contained,none,neutral,3,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-aurora,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-gradient-mesh,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-bento,hero,bento-hero,contained,screenshots,neutral,2,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-typed-headline,hero,centered-text,contained,none,neutral,2,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-poster-type,hero,big-type-editorial,contained,none,neutral,3,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-marquee-brands,hero,marquee-or-ticker,full-bleed,none,neutral,2,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-client-pitch,hero,text-only-left,contained,none,neutral,1,https://ui.minidev.pro/blocks/hero-sections
+@minidev,hero-spotlight,hero,centered-text,contained,screenshots,neutral,2,https://ui.minidev.pro/blocks/hero-sections
+@minidev,waitlist-hero,hero,centered-text,narrow,none,quiet,1,https://ui.minidev.pro/blocks/hero-sections
+@minidev,waveform-hero,hero,centered-text,contained,abstract-graphic,neutral,2,https://ui.minidev.pro/blocks/hero-sections
+@avara-ui,honeycomb-hero,hero,split-text-media,full-bleed,illustration,loud,1,https://avaraui.com/docs/nextjs/hero
+@avara-ui,hero-carousel,hero,full-bleed-image,full-bleed,illustration,loud,1,https://avaraui.com/docs/nextjs/hero
+@avara-ui,profile-page (aurora default),profile,bento-hero,contained,avatar,loud,2,https://avaraui.com/docs/nextjs/profile-page
+@avara-ui,profile-page (solid variant),profile,bento-hero,contained,avatar,neutral,3,https://avaraui.com/docs/nextjs/profile-page
+@avara-ui,profile-page (liquid glass variant),profile,bento-hero,contained,avatar,loud,1,https://avaraui.com/docs/nextjs/profile-page
+@avara-ui,timeline (default left),experience,timeline-vertical,narrow,none,neutral,2,https://avaraui.com/docs/nextjs/timeline
+@avara-ui,timeline (center layout),experience,timeline-vertical,contained,none,neutral,2,https://avaraui.com/docs/nextjs/timeline
+@avara-ui,timeline (minimal variant),experience,timeline-vertical,narrow,none,quiet,3,https://avaraui.com/docs/nextjs/timeline
+@avara-ui,timeline (glass variant),experience,timeline-vertical,contained,illustration,loud,1,https://avaraui.com/docs/nextjs/timeline
+@uiception,hero-section-v1,hero,split-text-media,contained,screenshots,neutral,3,https://uiception.com/blocks/hero-section
+@uiception,hero-section-v2,hero,terminal-or-code,contained,none,neutral,3,https://uiception.com/blocks/hero-section
+@uiception,hero-section-v3,hero,centered-text,contained,none,neutral,1,https://uiception.com/blocks/hero-section
+@uiception,hero-section-v4,hero,centered-text,contained,illustration,neutral,2,https://uiception.com/blocks/hero-section
+@uiception,hero-section-v5,hero,centered-text,contained,none,quiet,1,https://uiception.com/blocks/hero-section
+@uiception,hero-section-v6,hero,centered-text,contained,screenshots,neutral,2,https://uiception.com/blocks/hero-section
+@uiception,hero-section-v7,hero,centered-text,contained,screenshots,neutral,2,https://uiception.com/blocks/hero-section
+@uiception,hero-section-v8,hero,centered-text,contained,illustration,neutral,2,https://uiception.com/blocks/hero-section
+@uiception,about-section-v1,about,fact-band,contained,none,neutral,2,https://uiception.com/blocks/about-us
+@uiception,portfolio-v1,profile,text-only-left,narrow,illustration,quiet,3,https://uiception.com/templates/portfolio
+@uiception,portfolio-v2,profile,fact-band,contained,avatar,quiet,5,https://uiception.com/templates/portfolio
+@uiception,portfolio-v3,experience,horizontal-strip,contained,screenshots,neutral,3,https://uiception.com/templates/portfolio
+@uiception,portfolio-v4,profile,terminal-or-code,contained,none,neutral,3,https://uiception.com/templates/portfolio
+@uiception,portfolio-v5,profile,text-only-left,full-bleed,none,quiet,2,https://uiception.com/templates/portfolio
+@uiception,portfolio-v6,profile,text-only-left,narrow,avatar,quiet,3,https://uiception.com/templates/portfolio
+@flx,hero 'Build what matters',hero,centered-text,contained,none,quiet,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Every metric that matters',hero,centered-text,contained,screenshots,neutral,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Ideas worth sharing',hero,centered-text,contained,illustration,quiet,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'A gallery for the work you are proud of',hero,split-text-media,contained,illustration,quiet,3,https://ui.flexnative.com/blocks/hero
+@flx,hero 'A creative studio for founders',hero,full-bleed-image,full-bleed,illustration,quiet,3,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Ship your best work',hero,split-text-media,contained,screenshots,neutral,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Design-led homes',hero,full-bleed-image,full-bleed,illustration,quiet,3,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Learn the craft',hero,split-text-media,contained,illustration,neutral,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Find the perfect block',hero,centered-text,contained,illustration,quiet,1,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Build faster interfaces',hero,collage-or-gallery,contained,illustration,neutral,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Aspen Ridge',hero,full-bleed-image,full-bleed,illustration,loud,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'The interface system for teams and agents',hero,text-only-left,contained,screenshots,neutral,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Describe the screen',hero,centered-text,contained,screenshots,neutral,2,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Haven Studio',hero,collage-or-gallery,contained,illustration,quiet,3,https://ui.flexnative.com/blocks/hero
+@flx,hero 'Studio Directory',hero,collage-or-gallery,contained,illustration,neutral,2,https://ui.flexnative.com/blocks/hero
+@flx,bento-grids (pos1 'Build home workspace'),projects,bento-grid,contained,illustration,neutral,2,https://ui.flexnative.com/blocks/bento-grids
+@flx,bento-grids (pos2 'New this season'),projects,bento-grid,contained,illustration,neutral,2,https://ui.flexnative.com/blocks/bento-grids
+@flx,bento-grids (pos3 ceramics),projects,bento-grid,contained,illustration,neutral,2,https://ui.flexnative.com/blocks/bento-grids
+@flx,bento-grids (pos4 peripherals),projects,card-grid,contained,illustration,neutral,2,https://ui.flexnative.com/blocks/bento-grids
+@flx,bento-grids (pos5 furniture),projects,bento-grid,contained,illustration,quiet,2,https://ui.flexnative.com/blocks/bento-grids
+@flx,bento-grids (pos6 Nordhaus),projects,bento-grid,contained,illustration,neutral,2,https://ui.flexnative.com/blocks/bento-grids
+@devl,pour-hero,hero,big-type-editorial,contained,abstract-graphic,loud,1,https://devl.dev/blocks
+@devl,before-after-hero,hero,split-text-media,contained,screenshots,neutral,2,https://devl.dev/blocks
+@devl,tally-hero,hero,big-type-editorial,contained,screenshots,loud,1,https://devl.dev/blocks
+@devl,screens/profile,profile,profile-card,contained,avatar,loud,1,https://devl.dev/screens/profile
+@movin,card-follow,profile,profile-card,narrow,avatar,quiet,2,https://movin.design/components/cards/
+@movin,card-header,profile,profile-card,narrow,avatar,quiet,2,https://movin.design/components/cards/
+@movin,card-rolodex,profile,profile-card,narrow,illustration,neutral,1,https://movin.design/components/cards/
+@shadcnui-blocks,hero-01,hero,centered-text,contained,abstract-graphic,loud,1,https://www.shadcnui-blocks.com/blocks/categories/hero
+@shadcnui-blocks,hero-02,hero,split-text-media,contained,screenshots,neutral,2,https://www.shadcnui-blocks.com/blocks/categories/hero
+@shadcnui-blocks,hero-03,hero,centered-text,contained,screenshots,loud,1,https://www.shadcnui-blocks.com/blocks/categories/hero
+@shadcnui-blocks,hero-04,hero,split-text-media,contained,screenshots,neutral,2,https://www.shadcnui-blocks.com/blocks/categories/hero
+@shadcnui-blocks,hero-05,hero,split-text-media,full-bleed,screenshots,neutral,2,https://www.shadcnui-blocks.com/blocks/categories/hero
+@shadcnui-blocks,hero-06,hero,centered-text,contained,none,quiet,2,https://www.shadcnui-blocks.com/blocks/categories/hero
+@shadcnui-blocks,profile-01,profile,profile-card,narrow,avatar,quiet,2,https://www.shadcnui-blocks.com/blocks/categories/profile
+@shadcnui-blocks,profile-02,profile,profile-card,narrow,avatar,neutral,2,https://www.shadcnui-blocks.com/blocks/categories/profile
+@shadcnui-blocks,profile-03,profile,profile-card,narrow,avatar,neutral,2,https://www.shadcnui-blocks.com/blocks/categories/profile
+@shadcnui-blocks,profile-04,profile,profile-card,narrow,avatar,neutral,1,https://www.shadcnui-blocks.com/blocks/categories/profile
+@shadcnui-blocks,timeline-01,experience,timeline-vertical,narrow,none,quiet,4,https://www.shadcnui-blocks.com/blocks/categories/timeline
+@shadcnui-blocks,timeline-02,experience,timeline-vertical,narrow,none,quiet,4,https://www.shadcnui-blocks.com/blocks/categories/timeline
+@shadcnui-blocks,timeline-03,experience,timeline-vertical,narrow,none,quiet,3,https://www.shadcnui-blocks.com/blocks/categories/timeline
+@shadcnui-blocks,timeline-04,other,timeline-vertical,narrow,none,quiet,2,https://www.shadcnui-blocks.com/blocks/categories/timeline
+@shadcnui-blocks,timeline-05,other,timeline-vertical,narrow,none,quiet,1,https://www.shadcnui-blocks.com/blocks/categories/timeline
+@devsloka,hero-section (statement + calendar),hero,big-type-editorial,contained,screenshots,neutral,3,https://ui.devsloka.in/blocks/hero-section
+@devsloka,hero-section-four (manuscript),hero,split-text-media,contained,screenshots,quiet,3,https://ui.devsloka.in/blocks/hero-section
+@devsloka,hero-split-reveal (photo split),hero,split-text-media,contained,illustration,neutral,3,https://ui.devsloka.in/blocks/hero-section
+@devsloka,hero-floating-elements (annotated spec sheet),hero,big-type-editorial,contained,none,neutral,2,https://ui.devsloka.in/blocks/hero-section
+@devsloka,profile-card,profile,profile-card,narrow,avatar,loud,1,https://ui.devsloka.in/components/profile-card
+@devsloka,showcase-bento,about,bento-hero,contained,person-photo,neutral,1,https://ui.devsloka.in/components/showcase-bento
+@000h-cojeev,profile-card,profile,profile-card,narrow,avatar,loud,1,https://cojeev.com/ui/docs/profile-card/
+@000h-cojeev,bento-grid,projects,bento-grid,contained,none,loud,1,https://cojeev.com/ui/docs/bento-grid/
+@pacekit,marketing-hero-4,hero,split-text-media,contained,screenshots,neutral,2,https://paceui.com/blocks/marketing/hero
+@pacekit,marketing-hero-5,hero,centered-text,contained,abstract-graphic,neutral,1,https://paceui.com/blocks/marketing/hero
+@pacekit,marketing-hero-3,hero,centered-text,contained,none,neutral,1,https://paceui.com/blocks/marketing/hero
+@pacekit,marketing-hero-2,hero,centered-text,contained,avatar,neutral,1,https://paceui.com/blocks/marketing/hero
+@pacekit,marketing-hero-1,hero,split-text-media,contained,none,neutral,1,https://paceui.com/blocks/marketing/hero
+@solaceui,hero-section-8,hero,split-text-media,full-bleed,screenshots,loud,1,https://www.solaceui.com/blocks/hero-section
+@solaceui,hero-section-7,hero,centered-text,full-bleed,screenshots,loud,1,https://www.solaceui.com/blocks/hero-section
+@solaceui,hero-section-6,hero,centered-text,full-bleed,screenshots,loud,1,https://www.solaceui.com/blocks/hero-section
+@solaceui,hero-section-5,hero,centered-text,contained,screenshots,neutral,2,https://www.solaceui.com/blocks/hero-section
+@solaceui,hero-section-4,hero,centered-text,contained,screenshots,neutral,2,https://www.solaceui.com/blocks/hero-section
+@solaceui,hero-section-3,hero,split-text-media,full-bleed,screenshots,loud,1,https://www.solaceui.com/blocks/hero-section
+@solaceui,hero-section-2,hero,centered-text,contained,screenshots,loud,1,https://www.solaceui.com/blocks/hero-section
+@solaceui,hero-section-1,hero,collage-or-gallery,contained,illustration,loud,1,https://www.solaceui.com/blocks/hero-section
+@uai,hero-section (split variant),hero,split-text-media,contained,screenshots,neutral,2,https://uaiblocks.dev/components/hero-section
+@uai,public-profile (sidebar variant),profile,sticky-identity-sidebar,contained,avatar,quiet,4,https://uaiblocks.dev/components/public-profile
+@uai,profile-page (sidebar variant),profile,sticky-identity-sidebar,contained,avatar,quiet,3,https://uaiblocks.dev/components/profile-page
+@uai,activity-timeline (rail variant),other,timeline-vertical,narrow,none,quiet,2,https://uaiblocks.dev/components/activity-timeline
+@8bitcn,hero1,hero,centered-text,contained,none,loud,1,https://www.8bitcn.com/docs/blocks/hero
+@8bitcn,hero2,hero,split-text-media,contained,illustration,loud,1,https://www.8bitcn.com/docs/blocks/hero
+@8bitcn,hero3,hero,centered-text,contained,none,loud,1,https://www.8bitcn.com/docs/blocks/hero
+@elements,github-profile-card,profile,profile-card,narrow,avatar,quiet,3,https://www.tryelements.dev/docs/github/github-profile-card
+@systaliko-ui,templates/portfolio (work rows),projects,featured-case-study,contained,screenshots,neutral,3,https://systaliko-ui.vercel.app/docs/templates/portfolio
+@visant,fog-hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://ui.visantlabs.com/c/fog-hero
+@tween-ui,project-hover-reveal,projects,list-rows,contained,illustration,neutral,4,https://tween-ui.vercel.app/block/project-hover-reveal
+@navui,hero-section (pos1 'Spend smarter'),hero,split-text-media,contained,screenshots,neutral,2,https://ui.navdeepsingh.dev/blocks/hero
+@navui,hero-section (pos2 'Your personal AI workspace'),hero,centered-text,contained,screenshots,loud,1,https://ui.navdeepsingh.dev/blocks/hero
+@navui,hero-section (pos3 'Exceptional product demos'),hero,text-only-left,contained,none,quiet,3,https://ui.navdeepsingh.dev/blocks/hero
+@navui,hero-section (pos4 'Take control of your health'),hero,centered-text,contained,illustration,neutral,1,https://ui.navdeepsingh.dev/blocks/hero
+@balick,hero-01 (product preview),hero,centered-text,contained,screenshots,neutral,2,https://ui.balick.me/blocks/hero
+@balick,hero-02 (deploy terminal),hero,terminal-or-code,contained,none,neutral,3,https://ui.balick.me/blocks/hero
+@balick,hero-03 (personal hero),hero,text-only-left,contained,none,quiet,5,https://ui.balick.me/blocks/hero
+@balick,about-01 (about with key figures),about,fact-band,contained,none,quiet,4,https://ui.balick.me/blocks/about
+@balick,projects-01 (project grid),projects,card-grid,contained,screenshots,quiet,4,https://ui.balick.me/blocks/projects
+@balick,timeline-01,experience,timeline-vertical,contained,none,quiet,5,https://ui.balick.me/blocks/timeline
+@geturui,hero-sections-aurora-workflow,hero,centered-text,contained,screenshots,loud,1,https://geturui.com/docs/hero-sections
+@geturui,hero-sections-split-demo,hero,text-only-left,contained,screenshots,neutral,2,https://geturui.com/docs/hero-sections
+@geturui,hero-sections-code-demo,hero,terminal-or-code,contained,screenshots,neutral,2,https://geturui.com/docs/hero-sections
+@geturui,about-pages-story,about,text-only-left,contained,avatar,neutral,2,https://geturui.com/docs/about-pages
+@geturui,about-pages journey-timeline,experience,timeline-vertical,contained,none,neutral,3,https://geturui.com/docs/about-pages
+@geturui,templates/portfolio hero (paid $19 template),hero,big-type-editorial,contained,none,quiet,5,https://geturui.com/templates/portfolio
+@ncdai,hero-01 (golden spiral),hero,text-only-left,contained,abstract-graphic,quiet,4,https://chanhdai.com/blocks/marketing/hero-01
+@ncdai,experience-01 (lined layout),experience,accordion-roles,contained,avatar,quiet,5,https://chanhdai.com/blocks/marketing/experience-01
+@ncdai,work-experience (component),experience,accordion-roles,narrow,avatar,quiet,4,https://chanhdai.com/components/work-experience-component
+@aicanvas,perspective-showcase-hero (premium),hero,collage-or-gallery,full-bleed,illustration,loud,1,https://aicanvas.me/components/perspective-showcase-hero
+@usva,hero-split,hero,centered-text,contained,screenshots,neutral,2,https://usva.build/docs/components/hero-split
+@usva,case-study-hero,projects,featured-case-study,contained,none,neutral,4,https://usva.build/docs/components/case-study-hero
+@usva,roadmap-timeline,other,horizontal-strip,contained,none,neutral,2,https://usva.build/docs/components/roadmap-timeline
+@beui,timeline (motion),experience,horizontal-strip,contained,screenshots,loud,1,https://beui.dev/components/motion/timeline
+@beui,project-folder,projects,card-grid,narrow,screenshots,neutral,2,https://beui.dev/components/blocks/project-folder
+@soralabs,hero-carousel,hero,collage-or-gallery,contained,screenshots,neutral,2,https://ui.soralabs.studio/motion/hero-carousel
+@soralabs,scroll-gallery,projects,featured-case-study,full-bleed,illustration,loud,2,https://ui.soralabs.studio/catalog/scroll-gallery
+@uiarc,hero-section (screenshot variant),hero,centered-text,contained,screenshots,loud,1,https://uiarc.dev/components/blocks/hero-section
+@uiarc,profile-page (Pro),profile,profile-card,narrow,avatar,neutral,2,https://uiarc.dev/components/blocks/profile-page
+@uiarc,gantt-timeline (Pro),other,timeline-rows-table,contained,avatar,neutral,2,https://uiarc.dev/components/blocks/gantt-timeline
+@xevrion,activity-timeline,other,list-rows,narrow,none,quiet,2,https://lab.xevrion.dev/lab/activity-timeline
+@plopui,status-timeline,other,timeline-vertical,narrow,none,loud,1,https://plopui.com/docs/components/status-timeline
+@ai2,accordion-timeline (line/dashed/node/filled/gradient variants),experience,accordion-roles,narrow,none,quiet,3,https://ai2.design/docs/styled/accordion/timeline
+@saastro,hero-01 (centered),hero,centered-text,contained,none,quiet,2,https://ui.saastro.io/blocks?category=Hero
+@saastro,hero-02 (split with image),hero,split-text-media,contained,screenshots,quiet,2,https://ui.saastro.io/blocks?category=Hero
+@saastro,hero-03 (gradient),hero,centered-text,contained,abstract-graphic,loud,1,https://ui.saastro.io/blocks?category=Hero
+@eldoraui,templates/portfolio hero,hero,shader-or-3d-background,full-bleed,abstract-graphic,loud,1,https://www.eldoraui.site/docs/templates/portfolio
+@wensity,hero-section-with-radial-glow,hero,centered-text,full-bleed,abstract-graphic,loud,1,https://ui.wensity.com/blocks/hero-sections
+@wensity,hero-section-with-spotlight-beam,hero,text-only-left,full-bleed,abstract-graphic,loud,2,https://ui.wensity.com/blocks/hero-sections
+@wensity,hero-section-with-rotating-words,hero,centered-text,full-bleed,abstract-graphic,loud,1,https://ui.wensity.com/blocks/hero-sections
+@wensity,hero-section-with-eclipse-glow,hero,centered-text,full-bleed,abstract-graphic,loud,1,https://ui.wensity.com/blocks/hero-sections
+@wensity,hero-section-with-morphing-photo-arc,hero,collage-or-gallery,full-bleed,illustration,neutral,2,https://ui.wensity.com/blocks/hero-sections
+@wensity,bento-grid-with-portfolio-profile (Pro),profile,bento-hero,contained,person-photo,neutral,3,https://ui.wensity.com/blocks/bento-grids/bento-grid-with-portfolio-profile
+@affectui,project-card (Pro),other,list-rows,narrow,avatar,quiet,1,https://www.affectui.com/components/project-card
+@7ovr,Centered Hero With Trust Logos (hero-1),hero,centered-text,contained,none,quiet,2,https://7ovr.com/blocks/hero
+@7ovr,Split Hero With Dashboard Mockup (hero-2),hero,split-text-media,contained,screenshots,neutral,2,https://7ovr.com/blocks/hero
+@7ovr,Left-Aligned Hero With Metrics (hero-3),hero,text-only-left,contained,none,neutral,2,https://7ovr.com/blocks/hero
+@7ovr,Grid Backdrop Email Capture (hero-4),hero,centered-text,contained,none,quiet,1,https://7ovr.com/blocks/hero
+@7ovr,Hero With Demo Video Dialog (hero-5),hero,centered-text,contained,none,quiet,2,https://7ovr.com/blocks/hero
+@7ovr,Hero With Avatar Social Proof (hero-6),hero,centered-text,contained,avatar,quiet,1,https://7ovr.com/blocks/hero
+@7ovr,Particle Rocket Canvas Hero (hero-7 Pro),hero,split-text-media,contained,abstract-graphic,neutral,3,https://7ovr.com/blocks/hero
+@7ovr,Mission Statement With Stats (about-1),about,centered-text,contained,none,quiet,2,https://7ovr.com/blocks/about
+@7ovr,Founder Story With Photo (about-2),about,split-text-media,contained,person-photo,quiet,3,https://7ovr.com/blocks/about
+@7ovr,Values Card Grid (about-3),about,fact-band,contained,none,quiet,2,https://7ovr.com/blocks/about
+@7ovr,Mission Vision Values Columns (about-4),about,fact-band,contained,none,quiet,2,https://7ovr.com/blocks/about
+@7ovr,Statement With Credential Card (about-5 Pro),about,big-type-editorial,contained,person-photo,neutral,3,https://7ovr.com/blocks/about
+@7ovr,Tilted Studio Photo Pair (about-6 Pro),about,collage-or-gallery,contained,person-photo,neutral,2,https://7ovr.com/blocks/about
+@7ovr,Public Profile With Tabs (profile-1),profile,profile-card,narrow,avatar,quiet,2,https://7ovr.com/blocks/profile
+@7ovr,Compact Profile Card (profile-2),profile,profile-card,narrow,avatar,quiet,2,https://7ovr.com/blocks/profile
+@7ovr,Organization Profile Card (profile-3),profile,profile-card,narrow,avatar,quiet,1,https://7ovr.com/blocks/profile
+@7ovr,Social Profile With Media Tabs (profile-4),profile,profile-card,narrow,avatar,neutral,2,https://7ovr.com/blocks/profile
+@7ovr,Developer Contribution Profile (profile-5 Pro),profile,bento-hero,contained,avatar,neutral,3,https://7ovr.com/blocks/profile
+@7ovr,Portfolio Profile With Lightbox (profile-6 Pro),profile,split-text-portrait,contained,person-photo,neutral,3,https://7ovr.com/blocks/profile
