@@ -33,9 +33,8 @@ def _json(name, mtime):
 def load(name):
     """A data file, re-read only when it changes on disk (a rebuilt catalog shows up without a restart)."""
     if not (DATA / name).exists():
-        hint = {"catalog.json": "python3 scripts/survey-registries.py catalog --deep --out data",
-                "themes.json": "python3 scripts/fetch-themes.py"}.get(name, "")
-        raise FileNotFoundError(f"data/{name} is missing. Build it: {hint}".strip())
+        hint = {"themes.json": "python3 scripts/fetch-themes.py"}.get(name, "bash refresh.sh")
+        raise FileNotFoundError(f"data/{name} is missing. Build the index: {hint}")
     return _json(name, _mtime(name))
 
 
