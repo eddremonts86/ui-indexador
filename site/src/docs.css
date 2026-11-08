@@ -1,0 +1,47 @@
+/* Reading view for the markdown files served by ui-indexador (see docs.html). */
+.doc-top { border-bottom: 1px solid var(--border); }
+.doc-top-inner { margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; max-width: 72rem; height: 3.5rem; padding: 0 1rem; font-size: 0.875rem; }
+.doc-brand { color: var(--foreground); font-weight: 600; text-decoration: none; }
+.doc-nav { display: flex; gap: 1.25rem; color: var(--muted-foreground); }
+.doc-nav a { color: inherit; text-decoration: none; }
+.doc-nav a:hover { color: var(--foreground); }
+
+.doc { margin: 0 auto; max-width: 72rem; padding: 2.5rem 1rem 5rem; line-height: 1.65; color: var(--foreground); }
+.doc-status { color: var(--muted-foreground); }
+.doc h1 { font-size: 1.875rem; font-weight: 600; letter-spacing: -0.02em; margin: 0 0 0.75rem; }
+.doc h2 { font-size: 1.25rem; font-weight: 600; margin: 2.5rem 0 0.75rem; padding-top: 1.25rem; border-top: 1px solid var(--border); }
+.doc h3 { font-size: 1rem; font-weight: 600; margin: 1.75rem 0 0.5rem; }
+.doc p, .doc li { color: var(--muted-foreground); }
+.doc p { margin: 0.75rem 0; }
+.doc ul, .doc ol { padding-left: 1.25rem; margin: 0.75rem 0; }
+.doc li { margin: 0.25rem 0; }
+.doc a { color: var(--brand); text-underline-offset: 2px; }
+.doc strong { color: var(--foreground); font-weight: 600; }
+.doc code { font-family: "JetBrains Mono Variable", ui-monospace, monospace; font-size: 0.85em; background: var(--muted); padding: 0.1rem 0.35rem; border-radius: 0.3rem; }
+.doc blockquote { margin: 1rem 0; padding-left: 1rem; border-left: 2px solid var(--brand); color: var(--muted-foreground); }
+.doc hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
+.doc-table { overflow-x: auto; margin: 1rem 0 1.5rem; border: 1px solid var(--border); border-radius: 0.75rem; }
+.doc table { width: 100%; border-collapse: collapse; font-size: 0.8125rem; }
+.doc th, .doc td { text-align: left; vertical-align: top; padding: 0.5rem 0.75rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
+.doc td { color: var(--muted-foreground); }
+.doc td:nth-child(n+8), .doc th:nth-child(n+8) { white-space: normal; min-width: 14rem; }
+.doc th { color: var(--foreground); font-weight: 600; background: var(--card); }
+.doc tr:last-child td { border-bottom: 0; }
+
+.doc-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+.doc-head h1 code { font-size: 1.5rem; background: none; padding: 0; }
+.doc-raw { font-size: 0.8125rem; color: var(--muted-foreground); }
+.doc section.sub { margin-top: 1.5rem; }
+.doc section.sub > h2 { font-size: 0.8125rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted-foreground); border: 0; padding: 0; margin: 2rem 0 0.75rem; }
+.doc dl.kv { display: grid; gap: 0; border: 1px solid var(--border); border-radius: 0.75rem; overflow: hidden; margin: 1.5rem 0; max-width: 32rem; }
+.doc dl.kv > div { display: flex; justify-content: space-between; gap: 1rem; padding: 0.6rem 1rem; border-bottom: 1px solid var(--border); }
+.doc dl.kv > div:last-child { border-bottom: 0; }
+.doc dt { color: var(--muted-foreground); }
+.doc dd { margin: 0; font-family: "JetBrains Mono Variable", ui-monospace, monospace; color: var(--foreground); }
+.doc ul.bars { list-style: none; padding: 0; margin: 0.75rem 0 1.5rem; display: grid; gap: 0.4rem; max-width: 48rem; }
+.doc ul.bars li.bar { display: grid; grid-template-columns: 11rem 1fr 5rem; align-items: center; gap: 0.75rem; margin: 0; font-size: 0.8125rem; }
+.doc .bar-label { color: var(--foreground); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.doc .bar-track { height: 0.5rem; background: var(--muted); border-radius: 999px; overflow: hidden; }
+.doc .bar-fill { display: block; height: 100%; background: var(--brand); border-radius: inherit; }
+.doc .bar-value { text-align: right; font-family: "JetBrains Mono Variable", ui-monospace, monospace; color: var(--muted-foreground); }
+@media (max-width: 640px) { .doc ul.bars li.bar { grid-template-columns: 7rem 1fr 4rem; } }
