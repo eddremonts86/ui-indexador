@@ -1,0 +1,11 @@
+.git
+.venv
+__pycache__
+logs
+data
+site/node_modules
+site/dist
+scripts
+docs
+schedule
+archive
