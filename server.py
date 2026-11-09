@@ -80,6 +80,11 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(body)
 
+    def wants_viewer(self, q):
+        """A browser asking for an endpoint's HTML gets the reading view (site/dist/docs.html); ?format=json opts out."""
+        return ("text/html" in self.headers.get("Accept", "") and q.get("format") != "json"
+                and (SITE / "docs.html").is_file())
+
     @staticmethod
     def site_file(path):
         """A file of the built landing (site/dist), never outside it."""
@@ -97,6 +102,8 @@ class Handler(BaseHTTPRequestHandler):
                     self.send(200, index.read_bytes(), "text/html; charset=utf-8", cache="no-cache")
                 else:
                     self.send(200, indexer.health())
+            elif path in ROUTES and self.wants_viewer(q):  # a browser gets the reading view, programs get JSON
+                self.send(200, (SITE / "docs.html").read_bytes(), "text/html; charset=utf-8", cache="no-cache")
             elif path in ROUTES:
                 self.send(200, ROUTES[path](q))
             elif path.startswith("/themes/"):

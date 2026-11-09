@@ -2,6 +2,7 @@ import Comparison03 from "@/components/blocks/comparison-03"
 import Cta06 from "@/components/blocks/cta-06"
 import FAQsTwo from "@/components/blocks/faqs/faqs-section-two"
 import { Features01 } from "@/components/features-01"
+import { AiOs } from "@/sections/ai-os"
 import { Built } from "@/sections/built"
 import { How } from "@/sections/how"
 import { Integrate } from "@/sections/integrate"
@@ -15,6 +16,7 @@ export default function Rest() {
       <LiveSearch />
       <Features01 />
       <Integrate />
+      <AiOs />
       <Built />
       <FAQsTwo />
       <Cta06 />
